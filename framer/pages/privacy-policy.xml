@@ -1,0 +1,476 @@
+<Desktop
+    nodeId="NlBSgj8AD"
+    position="absolute"
+    width="1200px"
+    height="1080px"
+    top="0px"
+    left="0px"
+    backgroundColor="/Colors/White"
+    overflow="hidden"
+    layout="stack"
+    stackDirection="vertical"
+    stackDistribution="start"
+    stackAlignment="center"
+>
+  <MainContainer
+      nodeId="UvmeNKaoR"
+      width="1fr"
+      height="fit-content"
+      overflow="hidden"
+      layout="stack"
+      stackDirection="vertical"
+      stackDistribution="start"
+      stackAlignment="center"
+  >
+    <WavesContainer
+        nodeId="e_8hNkBlV"
+        position="absolute"
+        height="100vh"
+        top="0px"
+        right="0px"
+        left="0px"
+        overflow="hidden"
+    >
+    </WavesContainer>
+    <Section
+        nodeId="YnXo0QjeG"
+        width="1fr"
+        height="40vh"
+        backgroundColor="/Colors/Green"
+        overflow="hidden"
+     />
+    <TextSection
+        nodeId="ewn4QbTUU"
+        width="1fr"
+        height="fit-content"
+        backgroundColor="/Colors/Green"
+        overflow="hidden"
+        layout="stack"
+        gap="64px"
+        padding="0px 0px 160px 0px"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+    >
+      <Hero
+          nodeId="NCfF0mmzj"
+          width="1fr"
+          height="fit-content"
+          maxWidth="1600px"
+          overflow="visible"
+          layout="stack"
+          padding="0px 56px 0px 56px"
+          stackDirection="horizontal"
+          stackDistribution="center"
+          stackAlignment="start"
+      >
+        <Section
+            nodeId="u426ur2yU"
+            width="10fr"
+            height="114px"
+            overflow="visible"
+            layout="stack"
+            gap="80px"
+            stackDirection="vertical"
+            stackDistribution="start"
+            stackAlignment="start"
+        >
+          <Title
+              nodeId="XGtXFrutb"
+              width="1fr"
+              height="fit-content"
+              overflow="visible"
+              layout="stack"
+              gap="56px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <PrivacyPolicy
+                nodeId="uenlVU4v9"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 1 XL"
+            >
+              Privacy Policy.
+            </PrivacyPolicy>
+          </Title>
+        </Section>
+        <Section
+            nodeId="p_CYsop4B"
+            width="2fr"
+            height="fit-content"
+            overflow="hidden"
+            layout="stack"
+            gap="80px"
+            stackDirection="vertical"
+            stackDistribution="start"
+            stackAlignment="start"
+        >
+          <Date
+              nodeId="oCm9gP5r4"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="visible"
+              layout="stack"
+              gap="56px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <LastUpdatedApril82026
+                nodeId="tE6hNIxzD"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body S"
+            >
+              Last updated:
+April 8, 2026
+            </LastUpdatedApril82026>
+          </Date>
+        </Section>
+      </Hero>
+      <Text
+          nodeId="XTOPVWRH7"
+          width="100%"
+          height="fit-content"
+          maxWidth="1600px"
+          overflow="hidden"
+          layout="stack"
+          padding="0px 56px 0px 56px"
+          stackDirection="horizontal"
+          stackDistribution="center"
+          stackAlignment="end"
+      >
+        <Section
+            nodeId="OoaecFrxD"
+            width="3fr"
+            height="1fr"
+            overflow="hidden"
+            layout="stack"
+            gap="80px"
+            padding="0px 0px 0px 0px"
+            stackDirection="vertical"
+            stackDistribution="start"
+            stackAlignment="start"
+         />
+        <Section
+            nodeId="EfMsmVRy1"
+            width="9fr"
+            height="fit-content"
+            overflow="hidden"
+            layout="stack"
+            gap="80px"
+            padding="0px 0px 0px 0px"
+            stackDirection="vertical"
+            stackDistribution="center"
+            stackAlignment="start"
+        >
+          <Intro
+              nodeId="SVypzTxzg"
+              width="1fr"
+              height="fit-content"
+              layout="stack"
+              gap="56px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <AtArcmaWeAreCommittedToProtectingYourPrivacyAndSafeguardingY
+                nodeId="F4pwpWXV9"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 5"
+            >
+              At ARCMA, we are committed to protecting your privacy and safeguarding your personal information. This Privacy Policy explains what information we collect, how we use it, and what choices you have when using our website and services.
+            </AtArcmaWeAreCommittedToProtectingYourPrivacyAndSafeguardingY>
+          </Intro>
+          <TextContainer
+              nodeId="xVmB6BHcT"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="hidden"
+              layout="stack"
+              gap="16px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <InformationWeCollect
+                nodeId="gdWXYNjVE"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 4"
+            >
+              Information We Collect
+            </InformationWeCollect>
+            <WeCollectPersonalInformationThatYouVoluntarilyProvideThrough
+                nodeId="K7oWfFymq"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              We collect personal information that you voluntarily provide through forms, bookings, or communication — such as your name, email address, and any information you choose to share when reaching out to us. In addition, we collect limited technical data (such as browser type and device information) to help us improve website functionality.
+            </WeCollectPersonalInformationThatYouVoluntarilyProvideThrough>
+          </TextContainer>
+          <TextContainer
+              nodeId="pZQehTrYb"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="hidden"
+              layout="stack"
+              gap="16px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <HowWeUseYourInformation
+                nodeId="MliLstRXI"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 4"
+            >
+              How We Use Your Information
+            </HowWeUseYourInformation>
+            <TheInformationYouProvideAllowsUsToCommunicateWithYouRespondT
+                nodeId="MG94u_Tbg"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              The information you provide allows us to communicate with you, respond to inquiries, and deliver services effectively. It may also be used to improve our website or send occasional updates if you’ve opted in.We do not sell or rent your information to third parties. We also do not use your data for advertising or behavioral targeting.
+            </TheInformationYouProvideAllowsUsToCommunicateWithYouRespondT>
+          </TextContainer>
+          <TextContainer
+              nodeId="Xv2O6vUn1"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="hidden"
+              layout="stack"
+              gap="16px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <DataStorageSecurity
+                nodeId="rJ35nUNtl"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 4"
+            >
+              Data Storage &amp; Security
+            </DataStorageSecurity>
+            <AllPersonalDataIsStoredUsingSecureEncryptedSystemsAndIsAcces
+                nodeId="n2ZgrcTzS"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              All personal data is stored using secure, encrypted systems and is accessible only to authorized team members. We implement industry-standard security measures to protect your information from unauthorized access, disclosure, or alteration.Despite our efforts, no online platform is entirely risk-free. If a data breach ever occurs, we will notify affected individuals as required by law.
+            </AllPersonalDataIsStoredUsingSecureEncryptedSystemsAndIsAcces>
+          </TextContainer>
+          <TextContainer
+              nodeId="ru1xBsu9t"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="hidden"
+              layout="stack"
+              gap="16px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <Cookies
+                nodeId="pEBSM6UDL"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 4"
+            >
+              Cookies
+            </Cookies>
+            <WeMayUseCookiesSmallDataFilesToUnderstandHowVisitorsInteract
+                nodeId="ce4dEM1TB"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              We may use cookies (small data files) to understand how visitors interact with our website. This helps us improve your experience.
+You can choose to disable cookies in your browser settings at any time.
+            </WeMayUseCookiesSmallDataFilesToUnderstandHowVisitorsInteract>
+          </TextContainer>
+          <TextContainer
+              nodeId="uQuPvJJk5"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="hidden"
+              layout="stack"
+              gap="16px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <YourRights
+                nodeId="UiN7ErfjT"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 4"
+            >
+              Your Rights
+            </YourRights>
+            <YouHaveTheRightToAccessCorrectOrDeleteYourPersonalInformatio
+                nodeId="YjC1SgzKJ"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              You have the right to access, correct, or delete your personal information at any time. If you would like to review the data we’ve stored, or request its removal, you can contact us directly using the details below.You can also unsubscribe from our email communications at any time via the unsubscribe link or by reaching out to us.
+            </YouHaveTheRightToAccessCorrectOrDeleteYourPersonalInformatio>
+          </TextContainer>
+          <TextContainer
+              nodeId="LVTbtRyys"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="hidden"
+              layout="stack"
+              gap="16px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <ChangesToThisPolicy
+                nodeId="T8cT5EM_u"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 4"
+            >
+              Changes to This Policy
+            </ChangesToThisPolicy>
+            <ThisPolicyMayBeUpdatedFromTimeToTimeWhenSignificantChangesAr
+                nodeId="rxZqASYww"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              This policy may be updated from time to time. When significant changes are made, we will update the date at the top of this page and, when appropriate, notify you by email or through the website.
+            </ThisPolicyMayBeUpdatedFromTimeToTimeWhenSignificantChangesAr>
+          </TextContainer>
+          <TextContainer
+              nodeId="Vh_yXKj4A"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="hidden"
+              layout="stack"
+              gap="16px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <Contact
+                nodeId="txqWTZZZf"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 4"
+            >
+              Contact
+            </Contact>
+            <IfYouHaveAnyQuestionsOrConcernsAboutThisPrivacyPolicyPleaseC
+                nodeId="LYerpQD02"
+                width="1fr"
+                height="fit-content"
+                link="mailto:hello@world.com"
+                linkOpenInNewTab="true"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              If you have any questions or concerns about this Privacy Policy, please contact us at: support@clearpath.com
+            </IfYouHaveAnyQuestionsOrConcernsAboutThisPrivacyPolicyPleaseC>
+          </TextContainer>
+        </Section>
+      </Text>
+    </TextSection>
+    <FooterMenu
+        nodeId="tf5u7OB0Y"
+        position="absolute"
+        width="8px"
+        height="8px"
+        bottom="40px"
+        left="0px"
+        zIndex="1"
+        overflow="hidden"
+     />
+  </MainContainer>
+  <Lenis
+      nodeId="MnEJsgcCM"
+      width="fit-content"
+      height="fit-content"
+      smooth="true"
+      intensity="20"
+      infinite="false"
+      orientation="vertical"
+   />
+  <Navbar
+      nodeId="mw7FcpTG3"
+      position="fixed"
+      width="100%"
+      height="fit-content"
+      top="0px"
+      centerX="50%"
+      componentId="JTE_ljjiM"
+      variant="IQJ5C1pEN"
+      kNcB50xza="wsZIgHVCp"
+   />
+  <CustomCursor
+      nodeId="ibizdyPx5"
+      position="absolute"
+      width="1px"
+      height="1px"
+      top="0px"
+      left="-101px"
+      componentId="o3k5QYG"
+   />
+</Desktop>
+<Tablet
+    nodeId="hXlyot4kM"
+    position="absolute"
+    width="810px"
+    height="1080px"
+    top="0px"
+    left="1300px"
+    backgroundColor="/Colors/White"
+    overflow="hidden"
+    layout="stack"
+    stackDirection="vertical"
+    stackDistribution="start"
+    stackAlignment="center"
+ />
+<Phone
+    nodeId="w9TLbsPdZ"
+    position="absolute"
+    width="390px"
+    height="1080px"
+    top="0px"
+    left="2210px"
+    backgroundColor="/Colors/White"
+    overflow="hidden"
+    layout="stack"
+    stackDirection="vertical"
+    stackDistribution="start"
+    stackAlignment="center"
+ />

@@ -76,6 +76,50 @@ pages:
       closing.cta.label: {node: VKIY2BFfR, field: tYSaFf25Y}
       closing.cta.href: {node: VKIY2BFfR, field: mXtmyujuo}
       closing.contact_note: {node: Yxi3PpPda}
+  privacy-policy:
+    page: T8dAic1AB
+    path: /privacy-policy
+    content: content/pages/privacy-policy.yaml
+    slots:
+      title: {node: uenlVU4v9}
+      updated: {node: tE6hNIxzD}
+      intro: {node: F4pwpWXV9}
+      sections.0.heading: {node: gdWXYNjVE}
+      sections.0.body: {node: K7oWfFymq}
+      sections.1.heading: {node: MliLstRXI}
+      sections.1.body: {node: MG94u_Tbg}
+      sections.2.heading: {node: rJ35nUNtl}
+      sections.2.body: {node: n2ZgrcTzS}
+      sections.3.heading: {node: pEBSM6UDL}
+      sections.3.body: {node: ce4dEM1TB}
+      sections.4.heading: {node: UiN7ErfjT}
+      sections.4.body: {node: YjC1SgzKJ}
+      sections.5.heading: {node: T8cT5EM_u}
+      sections.5.body: {node: rxZqASYww}
+      contact.heading: {node: txqWTZZZf}
+      contact.body: {node: LYerpQD02}
+  terms-of-use:
+    page: d_docMz97
+    path: /terms-of-use
+    content: content/pages/terms-of-use.yaml
+    slots:
+      title: {node: ZA_B15Hmn}
+      updated: {node: LJbSQnqdz}
+      intro: {node: rHnSqnv5C}
+      sections.0.heading: {node: hSUhYzeuK}
+      sections.0.body: {node: dx_FkR2q_}
+      sections.1.heading: {node: FF5P8dyGl}
+      sections.1.body: {node: xiFeYHbzq}
+      sections.2.heading: {node: uCprlMTRe}
+      sections.2.body: {node: hk_zJLHAY}
+      sections.3.heading: {node: p_OzxUapp}
+      sections.3.body: {node: B9sMjvpon}
+      sections.4.heading: {node: bwvDx9O8t}
+      sections.4.body: {node: xzh2aGv1X}
+      sections.5.heading: {node: m6evCvP4X}
+      sections.5.body: {node: afUV97cAb}
+      contact.heading: {node: PUtsk_4rX}
+      contact.body: {node: t9SsMLxIy}
 cms:
   stories:
     collection: Yg35KMxfO

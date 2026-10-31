@@ -1,0 +1,496 @@
+<Desktop
+    nodeId="ryPXNiBUH"
+    position="absolute"
+    width="1200px"
+    height="1080px"
+    top="0px"
+    left="0px"
+    backgroundColor="/Colors/White"
+    overflow="hidden"
+    layout="stack"
+    stackDirection="vertical"
+    stackDistribution="start"
+    stackAlignment="center"
+>
+  <MainContainer
+      nodeId="wIAEA7AP7"
+      width="1fr"
+      height="fit-content"
+      overflow="hidden"
+      layout="stack"
+      stackDirection="vertical"
+      stackDistribution="start"
+      stackAlignment="center"
+  >
+    <WavesContainer
+        nodeId="nh7SahK20"
+        position="absolute"
+        height="100vh"
+        top="0px"
+        right="0px"
+        left="0px"
+        overflow="hidden"
+    >
+    </WavesContainer>
+    <Section
+        nodeId="g7wSH0c76"
+        width="1fr"
+        height="40vh"
+        backgroundColor="/Colors/Green"
+        overflow="hidden"
+     />
+    <TextSection
+        nodeId="Izv_0NnWJ"
+        width="1fr"
+        height="fit-content"
+        backgroundColor="/Colors/Green"
+        overflow="hidden"
+        layout="stack"
+        gap="64px"
+        padding="0px 0px 160px 0px"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+    >
+      <Hero
+          nodeId="lnw74kjiq"
+          width="1fr"
+          height="fit-content"
+          maxWidth="1600px"
+          overflow="visible"
+          layout="stack"
+          padding="0px 56px 0px 56px"
+          stackDirection="horizontal"
+          stackDistribution="center"
+          stackAlignment="start"
+      >
+        <Section
+            nodeId="HZ1bqNjSY"
+            width="10fr"
+            height="114px"
+            overflow="visible"
+            layout="stack"
+            gap="80px"
+            stackDirection="vertical"
+            stackDistribution="start"
+            stackAlignment="start"
+        >
+          <Title
+              nodeId="YEoJ5yGAv"
+              width="1fr"
+              height="fit-content"
+              overflow="visible"
+              layout="stack"
+              gap="56px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <TermsOfUse
+                nodeId="ZA_B15Hmn"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 1 XL"
+            >
+              Terms of Use.
+            </TermsOfUse>
+          </Title>
+        </Section>
+        <Section
+            nodeId="WQnBn0Aps"
+            width="2fr"
+            height="fit-content"
+            overflow="hidden"
+            layout="stack"
+            gap="80px"
+            stackDirection="vertical"
+            stackDistribution="start"
+            stackAlignment="start"
+        >
+          <Date
+              nodeId="BVuHfOlTp"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="visible"
+              layout="stack"
+              gap="56px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <LastUpdatedApril82026
+                nodeId="LJbSQnqdz"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body S"
+            >
+              Last updated:
+April 8, 2026
+            </LastUpdatedApril82026>
+          </Date>
+        </Section>
+      </Hero>
+      <Text
+          nodeId="nNcIaa6Qt"
+          width="100%"
+          height="fit-content"
+          maxWidth="1600px"
+          backgroundColor="/Colors/Green"
+          overflow="hidden"
+          layout="stack"
+          padding="0px 56px 0px 56px"
+          stackDirection="horizontal"
+          stackDistribution="center"
+          stackAlignment="end"
+      >
+        <Section
+            nodeId="Tag7g77hC"
+            width="3fr"
+            height="1fr"
+            overflow="hidden"
+            layout="stack"
+            gap="80px"
+            padding="0px 0px 0px 0px"
+            stackDirection="vertical"
+            stackDistribution="start"
+            stackAlignment="start"
+         />
+        <Section
+            nodeId="pDWn4lMvo"
+            width="9fr"
+            height="fit-content"
+            overflow="hidden"
+            layout="stack"
+            gap="80px"
+            padding="0px 0px 0px 0px"
+            stackDirection="vertical"
+            stackDistribution="center"
+            stackAlignment="start"
+        >
+          <Intro
+              nodeId="Fhb3NCYdk"
+              width="1fr"
+              height="fit-content"
+              layout="stack"
+              gap="56px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <WelcomeToArcmaTheseTermsOfUseTermsDefineTheRulesResponsibili
+                nodeId="rHnSqnv5C"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 5"
+            >
+              Welcome to ARCMA. These Terms of Use (“Terms”) define the rules, responsibilities, and expectations for visitors using this website. It establishes the legal framework for how content may be accessed, shared, or interacted with, while clarifying the rights of the website owner and the obligations of users. This page protects both the integrity of the site and the experience of its visitors, ensuring transparency, clarity, and mutual understanding.
+            </WelcomeToArcmaTheseTermsOfUseTermsDefineTheRulesResponsibili>
+          </Intro>
+          <TextContainer
+              nodeId="cDtXLEOLk"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="visible"
+              layout="stack"
+              gap="16px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <WebsitePurpose
+                nodeId="hSUhYzeuK"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 4"
+            >
+              Website Purpose
+            </WebsitePurpose>
+            <TheArcmaWebsiteServesAsTheHubForOurPremiumConsultancyOfferin
+                nodeId="dx_FkR2q_"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              The ARCMA website serves as the hub for our premium consultancy, offering transformational organizational insight and applied coherence practices to leaders and teams. Through case studies, frameworks, and resources, we illuminate how organizations can align culture, structure, and values to achieve sustainable performance. Designed to educate, inspire, and provide actionable tools, the site also introduces clients to our bespoke consulting services, helping them translate vision into operational reality while maintaining integrity, coherence, and signal across every layer of the organization.
+            </TheArcmaWebsiteServesAsTheHubForOurPremiumConsultancyOfferin>
+          </TextContainer>
+          <TextContainer
+              nodeId="ODjyLItYC"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="visible"
+              layout="stack"
+              gap="16px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <UseOfTheSite
+                nodeId="FF5P8dyGl"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 4"
+            >
+              Use of the Site
+            </UseOfTheSite>
+            <YouAgreeToUseThisWebsiteOnlyForLawfulPurposesAndInAWayThatDo
+                nodeId="xiFeYHbzq"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              You agree to use this website only for lawful purposes and in a way that does not infringe on the rights of others. You must not:Misuse the website by knowingly introducing harmful software or codeAttempt to gain unauthorized access to the site or its serversUse content from the website for commercial purposes without permission
+            </YouAgreeToUseThisWebsiteOnlyForLawfulPurposesAndInAWayThatDo>
+          </TextContainer>
+          <TextContainer
+              nodeId="UWr0f35DB"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="visible"
+              layout="stack"
+              gap="16px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <IntellectualProperty
+                nodeId="uCprlMTRe"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 4"
+            >
+              Intellectual Property
+            </IntellectualProperty>
+            <AllContentOnThisWebsiteIncludingTextImagesGraphicsBrandingAn
+                nodeId="hk_zJLHAY"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              All content on this website — including text, images, graphics, branding, and layout — is the property of ClearPath or its content providers and is protected by copyright laws. You may view, download, or print content for personal, non-commercial use only. Reproduction or redistribution without permission is prohibited.
+            </AllContentOnThisWebsiteIncludingTextImagesGraphicsBrandingAn>
+          </TextContainer>
+          <TextContainer
+              nodeId="RQovBgVP1"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="visible"
+              layout="stack"
+              gap="16px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <ExternalLinks
+                nodeId="p_OzxUapp"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 4"
+            >
+              External Links
+            </ExternalLinks>
+            <OurWebsiteMayContainLinksToThirdPartyWebsitesOrServicesThese
+                nodeId="B9sMjvpon"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              Our website may contain links to third-party websites or services. These links are provided for convenience and do not imply endorsement. We are not responsible for the content or practices of any external websites.
+            </OurWebsiteMayContainLinksToThirdPartyWebsitesOrServicesThese>
+          </TextContainer>
+          <TextContainer
+              nodeId="YpW2RMeFb"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="visible"
+              layout="stack"
+              gap="16px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <Disclaimer
+                nodeId="bwvDx9O8t"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 4"
+            >
+              Disclaimer
+            </Disclaimer>
+            <WhileWeStriveToProvideAccurateAndHelpfulInformationWeMakeNoG
+                nodeId="xzh2aGv1X"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              While we strive to provide accurate and helpful information, we make no guarantees about the completeness or reliability of the content. Use of the website is at your own risk. ClearPath is not liable for any damages arising from your use of the site.
+            </WhileWeStriveToProvideAccurateAndHelpfulInformationWeMakeNoG>
+          </TextContainer>
+          <TextContainer
+              nodeId="qtvNW6O64"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="visible"
+              layout="stack"
+              gap="16px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <ChangesToTheseTerms
+                nodeId="m6evCvP4X"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 4"
+            >
+              Changes to These Terms
+            </ChangesToTheseTerms>
+            <WeMayUpdateTheseTermsOccasionallyWhenWeDoWeLlUpdateTheLastUp
+                nodeId="afUV97cAb"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              We may update these Terms occasionally. When we do, we’ll update the “Last updated” date at the top of the page. Continued use of the site after changes means you accept the revised Terms.
+            </WeMayUpdateTheseTermsOccasionallyWhenWeDoWeLlUpdateTheLastUp>
+          </TextContainer>
+          <TextContainer
+              nodeId="WUvBrShIE"
+              width="1fr"
+              height="fit-content"
+              maxWidth="480px"
+              overflow="visible"
+              layout="stack"
+              gap="16px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <Contact
+                nodeId="PUtsk_4rX"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 4"
+            >
+              Contact
+            </Contact>
+            <IfYouHaveQuestionsAboutTheseTermsPleaseContactUsAtHelloArcma
+                nodeId="t9SsMLxIy"
+                width="1fr"
+                height="fit-content"
+                link="mailto:hello@world.com"
+                linkOpenInNewTab="true"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              If you have questions about these Terms, please contact us at: hello@arcma.cosupport@clearpath.com
+            </IfYouHaveQuestionsAboutTheseTermsPleaseContactUsAtHelloArcma>
+          </TextContainer>
+        </Section>
+      </Text>
+    </TextSection>
+    <Faq
+        nodeId="FxoFt0a2z"
+        width="1fr"
+        height="fit-content"
+        backgroundColor="/Colors/Subtle Grey"
+        overflow="hidden"
+        layout="stack"
+        padding="160px 0px 160px 0px"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+    >
+      <Faq
+          nodeId="jN48FO3Il"
+          width="1fr"
+          height="fit-content"
+          componentId="W5vJAOUL4"
+          variant="U5dHSsDDu"
+       />
+    </Faq>
+    <FooterMenu
+        nodeId="BFIqef7LI"
+        position="absolute"
+        width="8px"
+        height="8px"
+        bottom="40px"
+        left="0px"
+        zIndex="1"
+        overflow="hidden"
+     />
+  </MainContainer>
+  <Lenis
+      nodeId="glAgZbFo1"
+      width="fit-content"
+      height="fit-content"
+      smooth="true"
+      intensity="20"
+      infinite="false"
+      orientation="vertical"
+   />
+  <Navbar
+      nodeId="toiVKsuWl"
+      position="fixed"
+      width="100%"
+      height="fit-content"
+      top="0px"
+      centerX="50%"
+      componentId="JTE_ljjiM"
+      variant="IQJ5C1pEN"
+      kNcB50xza="wsZIgHVCp"
+   />
+  <CustomCursor
+      nodeId="RXybIQZiL"
+      position="absolute"
+      width="1px"
+      height="1px"
+      top="0px"
+      left="-101px"
+      componentId="o3k5QYG"
+   />
+</Desktop>
+<Tablet
+    nodeId="tG4ltITMU"
+    position="absolute"
+    width="810px"
+    height="1080px"
+    top="0px"
+    left="1300px"
+    backgroundColor="/Colors/White"
+    overflow="hidden"
+    layout="stack"
+    stackDirection="vertical"
+    stackDistribution="start"
+    stackAlignment="center"
+ />
+<Phone
+    nodeId="i9vzLaJ0M"
+    position="absolute"
+    width="390px"
+    height="1080px"
+    top="0px"
+    left="2210px"
+    backgroundColor="/Colors/White"
+    overflow="hidden"
+    layout="stack"
+    stackDirection="vertical"
+    stackDistribution="start"
+    stackAlignment="center"
+ />

@@ -140,7 +140,7 @@
                 width="1fr"
                 height="fit-content"
                 maxWidth="480px"
-                link="mailto:hello@world.com"
+                link="mailto:hello@arcma.co"
                 linkOpenInNewTab="true"
                 inlineTextStyle="/Text Styles/Body S"
             >
@@ -179,6 +179,7 @@
                />
               <ButtonSocial
                   nodeId="cWoVL4QJ9"
+                  visible="false"
                   width="fit-content"
                   height="fit-content"
                   componentId="PNyRsgvYz"
@@ -194,7 +195,7 @@
                   componentId="PNyRsgvYz"
                   variant="UPDUalpHz"
                   RDsApu2H9="Envelope"
-                  jtwc1WdYP="info@arcma.co"
+                  jtwc1WdYP="mailto:hello@arcma.co"
                   m3GPNe8b9="rgb(123, 158, 135)"
                />
             </SocialLinks>

@@ -18,8 +18,6 @@ alignment: Left
 
 <!-- framer:lead -->
 
-## DOWNLOAD THE CASE STUDY
-
 ## The Field
 
 Three distinct operating cultures now occupied the same structure.

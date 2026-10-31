@@ -44,7 +44,7 @@ threshold:
   label: Who this work is for.
   title: The Threshold
   body: Arcma works with leaders and organizations at moments of birth and rebirth. Birth — when a founder carries extraordinary vision but the organization has not yet been built to carry it. Rebirth — when growth or change has fragmented the alignment between leadership, culture, brand, and market, and the organization must return to its center to evolve. Both are threshold moments. Both require returning to the source.
-  href: /case-studies/:slug
+  href: /case-studies
   images:
   - https://framerusercontent.com/images/Yv6XhhrlIGe2GjEh3SCAxMZ5Fc.jpg?width=1080&height=1920
   - https://framerusercontent.com/images/ehTsEHFiBkffT8YDEVhEbi06rc.jpg?width=1200&height=1800

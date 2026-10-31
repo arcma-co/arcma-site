@@ -395,11 +395,11 @@ April 8, 2026
                 nodeId="t9SsMLxIy"
                 width="1fr"
                 height="fit-content"
-                link="mailto:hello@world.com"
-                linkOpenInNewTab="true"
+                link="mailto:hello@arcma.co"
+                linkOpenInNewTab="false"
                 inlineTextStyle="/Text Styles/Body"
             >
-              If you have questions about these Terms, please contact us at: hello@arcma.cosupport@clearpath.com
+              If you have questions about these Terms, please contact us at: hello@arcma.co
             </IfYouHaveQuestionsAboutTheseTermsPleaseContactUsAtHelloArcma>
           </TextContainer>
         </Section>

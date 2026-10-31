@@ -395,11 +395,11 @@ You can choose to disable cookies in your browser settings at any time.
                 nodeId="LYerpQD02"
                 width="1fr"
                 height="fit-content"
-                link="mailto:hello@world.com"
-                linkOpenInNewTab="true"
+                link="mailto:hello@arcma.co"
+                linkOpenInNewTab="false"
                 inlineTextStyle="/Text Styles/Body"
             >
-              If you have any questions or concerns about this Privacy Policy, please contact us at: support@clearpath.com
+              If you have any questions or concerns about this Privacy Policy, please contact us at: hello@arcma.co
             </IfYouHaveAnyQuestionsOrConcernsAboutThisPrivacyPolicyPleaseC>
           </TextContainer>
         </Section>

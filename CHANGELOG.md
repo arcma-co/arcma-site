@@ -4,7 +4,7 @@ What changed on arcma.co, newest first, grouped by publish date. Every commit is
 
 ## Unreleased
 
-Nothing yet.
+- Social icons hidden site-wide; email is the only contact shown (decision 008).
 
 ## 2026-10-30
 

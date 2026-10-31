@@ -159,6 +159,7 @@
             >
               <ButtonSocial
                   nodeId="osjxMTokN"
+                  visible="false"
                   width="fit-content"
                   height="fit-content"
                   componentId="PNyRsgvYz"
@@ -169,6 +170,7 @@
                />
               <ButtonSocial
                   nodeId="UkhO6fhoB"
+                  visible="false"
                   width="fit-content"
                   height="fit-content"
                   componentId="PNyRsgvYz"

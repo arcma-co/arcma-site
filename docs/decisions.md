@@ -51,3 +51,12 @@ Every social icon on the site points to ARCMA's Instagram or LinkedIn, from `con
 
 *Why:* The template icons linked to bare youtube.com, facebook.com and threads.com. ARCMA has no channels there yet.
 
+### 008 · No social icons on the site; email is the only contact shown
+**2026-10-30 · supersedes 007**
+
+Every social icon is hidden: the social groups on /case-studies, /journal, /about and the case study pages, and the Instagram and LinkedIn icons in the Book A Session section. The envelope icon and every email link stay. The footer's icons are hidden by hand in Framer, because the plugin can't reach the footer.
+
+The Instagram and LinkedIn profiles stay in `content/site.yaml`. The rebuild declares them as the organization's profiles in the page metadata (`sameAs`), so search engines and AI answers still connect them to ARCMA without a visible icon.
+
+*Why:* A single direct line reads as more premium than a row of exits. Decided by Alyssa.
+

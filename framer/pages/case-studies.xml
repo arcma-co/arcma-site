@@ -393,6 +393,7 @@ Organizations where coherence became operational.
             </PreferToChatFirstSendUsAnEmailOrConnectWithUsOnSocialWeReAlw>
             <SocialLinks
                 nodeId="zdhyZSbgQ"
+                visible="false"
                 width="1fr"
                 height="fit-content"
                 overflow="visible"

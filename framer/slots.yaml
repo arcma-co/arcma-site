@@ -164,6 +164,12 @@ hidden:
 - {page: journal, node: bbGXmfxmS, field: visible, reason: YouTube icon; no channel yet}
 - {page: case-study, node: hsnNs0zQ0, field: visible, reason: YouTube icon; no channel yet}
 - {page: case-study, node: M4D3cFWvf, field: visible, reason: Facebook icon; no ARCMA page}
+- {page: case-studies, node: zdhyZSbgQ, field: visible, reason: social icon group (decision 008)}
+- {page: journal, node: zbD910TBB, field: visible, reason: social icon group (decision 008)}
+- {page: about, node: eZk0CShto, field: visible, reason: social icon group (decision 008)}
+- {page: case-study, node: yOrHlhlcV, field: visible, reason: social icon group (decision 008)}
+- {component: book-a-session, node: osjxMTokN, field: visible, reason: Instagram icon (decision 008)}
+- {component: book-a-session, node: UkhO6fhoB, field: visible, reason: LinkedIn icon (decision 008)}
 framer_ids:
   pages: {home: augiA20Il, case-studies: QQ7iXJ3ER, case-study: E0AxpTRgq, the-work: yXcf8livs, journal: mOP4qjxd0, journal-article: enT42eLt0, about: SENpfkTNW, contact: JQqwjslgT, coherence-model: C03F4gea6, terms-of-use: d_docMz97, privacy-policy: T8dAic1AB, '404': IevJ7eYCn}
   components: {book-a-session: G2XDwTXUy, navbar: JTE_ljjiM, menu: cVGID5OfB}

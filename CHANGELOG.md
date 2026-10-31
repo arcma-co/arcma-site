@@ -4,5 +4,15 @@ What changed on arcma.co, newest first, grouped by publish date. Every commit is
 
 ## Unreleased
 
-- Repository created as the source of truth for arcma.co.
-- Every email link points to hello@arcma.co, replacing the template's hello@world.com and the unlinked info@arcma.co.
+Nothing yet.
+
+## 2026-10-30
+
+Published by Alyssa. Checked page by page on the live site the same day.
+
+- Every email link goes to hello@arcma.co: the closing sections, the shared Book A Session section, the footer, and the contact lines on Terms and Privacy. They pointed to the template's hello@world.com, an unlinked info@arcma.co, and support@clearpath.com.
+- Instagram and LinkedIn icons reach ARCMA's profiles on every page. The template's YouTube, Facebook and Threads icons are hidden (decision 007); on case study pages the Threads icon became LinkedIn.
+- The Terms of Use name ARCMA in the Intellectual Property and Disclaimer clauses, where they named ClearPath.
+- The homepage Threshold card opens /case-studies.
+- Case 1 no longer opens with a bare "DOWNLOAD THE CASE STUDY" heading.
+- The footer's email was corrected by Alyssa directly in Framer. The footer is not readable through the plugin, so it is not yet mirrored here.

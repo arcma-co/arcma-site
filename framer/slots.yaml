@@ -120,6 +120,16 @@ pages:
       sections.5.body: {node: afUV97cAb}
       contact.heading: {node: PUtsk_4rX}
       contact.body: {node: t9SsMLxIy}
+components:
+  book-a-session:
+    component: G2XDwTXUy
+    used_on: [/, /the-work, /contact]
+    content: content/sections/book-a-session.yaml
+    slots:
+      label: {node: gfykWFi76}
+      headline: {node: oZlJl3Wvn}
+      body: {node: iXLg5F9tv}
+      contact_note: {node: jaHk0eyhj}
 cms:
   stories:
     collection: Yg35KMxfO

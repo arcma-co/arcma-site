@@ -29,6 +29,10 @@ hero:
 - Write display lines in the case they should read. Some Framer styles also force capitals.
 - Each key maps to one Framer layer through `framer/slots.yaml`. A new key needs a matching layer, so new sections are a design change as well as a copy change.
 
+## Shared sections: `sections/<name>.yaml`
+
+Sections that appear on several pages, like the Book A Session block at the foot of the homepage, The Work and Contact. Same format as pages; one edit changes every page that uses it.
+
 ## Case studies: `cases/<name>.md`
 
 Frontmatter holds the short fields; the body holds the long-form text.

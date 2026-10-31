@@ -21,7 +21,7 @@ While the site is on Framer, updates are limited to text in existing layers and 
 ### 003 · Framer state is mirrored in `framer/`, not backed up by timestamp
 **2026-10-30**
 
-The current XML of each Framer page, CMS collection, style set and code component is kept in `framer/` and updated in the same commit as each change.
+`framer/` keeps the current state of the Framer project: the project map with color and text styles (`project.xml`), each page's layer XML (`pages/`), each CMS collection's items (`cms/`), and the slot map linking content keys to layers (`slots.yaml`). It is updated in the same commit as each change. Code components are mirrored when the rebuild starts porting them.
 
 *Why:* Git history already holds every earlier state, so a diff shows exactly what changed in Framer and any node can be restored from history. Timestamped backup files would duplicate that and pile up.
 

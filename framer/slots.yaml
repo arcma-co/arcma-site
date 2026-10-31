@@ -1,6 +1,7 @@
 # Links each content key to the Framer layer or CMS field that renders it.
 # A slot with no field is the layer's own text; a field is a component property id.
 # site: layers bound to content/site.yaml values, wherever they appear.
+# hidden: layers switched off in Framer, with the reason. Restore with visible="true".
 
 pages:
   home:
@@ -85,7 +86,30 @@ cms:
 site:
   email:
   - {page: case-studies, node: Yxi3PpPda, field: link, format: mailto}
+  - {component: book-a-session, node: jaHk0eyhj, field: link, format: mailto}
+  - {component: book-a-session, node: AYdtawFop, field: jtwc1WdYP, format: mailto}
+  - {page: journal, node: JcuajwyM2, field: link, format: mailto}
+  - {page: case-study, node: nkFt2x2Pe, field: link, format: mailto}
+  - {page: terms-of-use, node: t9SsMLxIy, field: link, format: mailto}
+  - {page: privacy-policy, node: LYerpQD02, field: link, format: mailto}
   social.instagram:
   - {page: case-studies, node: MIokxQUUK, field: jtwc1WdYP}
+  - {component: book-a-session, node: osjxMTokN, field: jtwc1WdYP}
+  - {page: about, node: AwpNmLoNT, field: jtwc1WdYP}
+  - {page: journal, node: matrEciVA, field: jtwc1WdYP}
+  - {page: case-study, node: ZyK0U6F_j, field: jtwc1WdYP}
   social.linkedin:
   - {page: case-studies, node: AZIDIonxv, field: jtwc1WdYP}
+  - {component: book-a-session, node: UkhO6fhoB, field: jtwc1WdYP}
+  - {page: about, node: rOVxWgFOC, field: jtwc1WdYP}
+  - {page: journal, node: YiVVPBmn5, field: jtwc1WdYP}
+  - {page: case-study, node: YfXhbKN_t, field: jtwc1WdYP}
+hidden:
+- {page: case-studies, node: Hz4jUfelW, field: visible, reason: YouTube icon; no channel yet}
+- {component: book-a-session, node: cWoVL4QJ9, field: visible, reason: YouTube icon; no channel yet}
+- {page: journal, node: bbGXmfxmS, field: visible, reason: YouTube icon; no channel yet}
+- {page: case-study, node: hsnNs0zQ0, field: visible, reason: YouTube icon; no channel yet}
+- {page: case-study, node: M4D3cFWvf, field: visible, reason: Facebook icon; no ARCMA page}
+framer_ids:
+  pages: {home: augiA20Il, case-studies: QQ7iXJ3ER, case-study: E0AxpTRgq, the-work: yXcf8livs, journal: mOP4qjxd0, journal-article: enT42eLt0, about: SENpfkTNW, contact: JQqwjslgT, coherence-model: C03F4gea6, terms-of-use: d_docMz97, privacy-policy: T8dAic1AB, '404': IevJ7eYCn}
+  components: {book-a-session: G2XDwTXUy, navbar: JTE_ljjiM, menu: cVGID5OfB}

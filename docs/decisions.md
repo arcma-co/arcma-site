@@ -43,3 +43,11 @@ Pages are YAML files keyed by section and slot. Case studies and journal article
 Rebuild the site in Astro, deploy to Cloudflare Pages from this repository, and keep Framer live until cutover.
 
 *Why:* Lower cost than Framer, code that is owned outright, and a build workflow that fits Claude Code. See the ARCMA Site Rebuild Launch Plan (October 17, 2026).
+
+### 007 · Social links: Instagram and LinkedIn only, for now
+**2026-10-30**
+
+Every social icon on the site points to ARCMA's Instagram or LinkedIn, from `content/site.yaml`. Template icons for YouTube, Facebook and Threads are hidden, not deleted (listed under `hidden` in `framer/slots.yaml`). On case study pages the Threads icon became the LinkedIn icon, so every page offers the same two.
+
+*Why:* The template icons linked to bare youtube.com, facebook.com and threads.com. ARCMA has no channels there yet.
+

@@ -1,0 +1,1224 @@
+<Desktop
+    nodeId="WQLkyLRf1"
+    position="absolute"
+    width="1200px"
+    height="fit-content"
+    top="0px"
+    left="0px"
+    backgroundColor="/Colors/White"
+    overflow="hidden"
+    layout="stack"
+    stackDirection="vertical"
+    stackDistribution="start"
+    stackAlignment="center"
+>
+  <WavesContainer
+      nodeId="fQ9_sJfzj"
+      position="fixed"
+      height="100vh"
+      top="0px"
+      right="0px"
+      left="0px"
+      overflow="hidden"
+  >
+  </WavesContainer>
+  <MainContainer
+      nodeId="l85gLcnA7"
+      width="1fr"
+      height="fit-content"
+      backgroundColor="/Colors/Antique Brass"
+      overflow="visible"
+      overflowX="clip"
+      layout="stack"
+      stackDirection="vertical"
+      stackDistribution="start"
+      stackAlignment="center"
+  >
+    <PageIntro
+        nodeId="Y3S1pB1ZB"
+        width="1fr"
+        height="fit-content"
+        overflow="visible"
+        layout="stack"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+    >
+      <ImageContainer
+          nodeId="sLxjmparx"
+          position="absolute"
+          height="400vh"
+          top="0px"
+          right="0px"
+          left="0px"
+          backgroundColor="/Colors/White"
+          overflow="visible"
+          layout="stack"
+          stackDirection="vertical"
+          stackDistribution="start"
+          stackAlignment="center"
+      >
+        <HeaderImageWithGreenOverlay
+            nodeId="knI8t1eec"
+            position="sticky"
+            width="1fr"
+            height="100vh"
+            top="0px"
+            componentId="Xw0Yl2iid"
+         />
+      </ImageContainer>
+      <Hero
+          nodeId="ZE4nCRuO8"
+          width="1fr"
+          height="900px"
+          overflow="hidden"
+      >
+        <AnimatedLines
+            nodeId="CQJ4qj729"
+            locked="true"
+            position="absolute"
+            width="780px"
+            height="1140px"
+            top="0px"
+            centerX="50%"
+            maxWidth="780px"
+            overflow="hidden"
+        >
+          <Animator
+              nodeId="O6jE3JIW2"
+              opacity="0.5"
+              locked="true"
+              position="absolute"
+              width="780px"
+              height="1140px"
+              top="0px"
+              centerX="50%"
+              componentId="xzAiypU"
+              animate="true"
+              start="top 50%"
+              end="bottom 50%"
+              scrub="0.5"
+           />
+          <Animator
+              nodeId="Wmp9XtKST"
+              locked="true"
+              position="absolute"
+              top="0px"
+              right="0px"
+              bottom="0px"
+              left="0px"
+              componentId="xzAiypU"
+              animate="true"
+              start="top 50%"
+              end="bottom 50%"
+              scrub="0.5"
+           />
+        </AnimatedLines>
+        <Text
+            nodeId="fpRCpXlSY"
+            position="absolute"
+            width="100%"
+            height="100vh"
+            top="0px"
+            centerX="50%"
+            maxHeight="900px"
+            overflow="visible"
+            layout="stack"
+            stackDirection="vertical"
+            stackDistribution="center"
+            stackAlignment="center"
+        >
+          <Text
+              nodeId="tEWSH7mWP"
+              width="100%"
+              height="fit-content"
+              zIndex="1"
+              overflow="visible"
+              layout="stack"
+              padding="0px 56px 0px 56px"
+              stackDirection="horizontal"
+              stackDistribution="center"
+              stackAlignment="end"
+          >
+            <Section
+                nodeId="HMZc46FaN"
+                width="7fr"
+                height="fit-content"
+                overflow="visible"
+                layout="stack"
+                padding="0px 0px 0px 0px"
+                stackDirection="horizontal"
+                stackDistribution="center"
+                stackAlignment="center"
+            >
+              <Container
+                  nodeId="dGEg41bCL"
+                  width="1fr"
+                  height="fit-content"
+                  borderRadius="0px 0px 0px 0px"
+                  overflow="visible"
+                  layout="stack"
+                  padding="0px 8px 0px 8px"
+                  stackDirection="vertical"
+                  stackDistribution="center"
+                  stackAlignment="start"
+              >
+                <LeadFromTheSource
+                    nodeId="WjV4zhm1L"
+                    width="1fr"
+                    height="fit-content"
+                    maxWidth="1200px"
+                    inlineTextStyle="/Text Styles/Heading 1b"
+                >
+                  LEAD FROM
+THE SOURCE
+                </LeadFromTheSource>
+              </Container>
+            </Section>
+            <Section
+                nodeId="PxU72AbFG"
+                width="1fr"
+                height="1fr"
+                overflow="hidden"
+                padding="0px 0px 0px 0px"
+             />
+            <Section
+                nodeId="zM2lxAMmv"
+                width="4fr"
+                height="fit-content"
+                overflow="visible"
+                layout="stack"
+                padding="0px 0px 0px 0px"
+                stackDirection="horizontal"
+                stackDistribution="center"
+                stackAlignment="center"
+            >
+              <Container
+                  nodeId="FCFFkePAI"
+                  width="1fr"
+                  height="fit-content"
+                  borderRadius="0px 0px 0px 0px"
+                  overflow="visible"
+                  layout="stack"
+                  gap="32px"
+                  padding="0px 8px 0px 8px"
+                  stackDirection="vertical"
+                  stackDistribution="center"
+                  stackAlignment="start"
+              >
+                <ArcmaPartnersWithVisionaryFoundersAtMomentsWhenTheAmbitionOf
+                    nodeId="aHdGg0pBH"
+                    width="1fr"
+                    height="fit-content"
+                    inlineTextStyle="/Text Styles/Heading 5"
+                >
+                  ARCMA partners with visionary founders at moments when the ambition of the enterprise exceeds the structures currently supporting it.
+
+Through strategic advisory and selective implementation, we align the vision, identity, product, and commercial direction so the organization can grow without losing the intelligence at its source.
+                </ArcmaPartnersWithVisionaryFoundersAtMomentsWhenTheAmbitionOf>
+                <Button
+                    nodeId="qW4ABOiUK"
+                    width="fit-content"
+                    height="fit-content"
+                    componentId="eDfCBUtV4"
+                    variant="u8HuHyxeS"
+                    tYSaFf25Y="spiral in"
+                    YfWZu3XMt="rgb(242, 235, 217)"
+                    e6YXpJlcZ="rgb(123, 158, 135)"
+                    OrVY6CgcP="rgb(232, 224, 204)"
+                    mXtmyujuo="/contact"
+                 />
+              </Container>
+            </Section>
+          </Text>
+        </Text>
+      </Hero>
+    </PageIntro>
+    <Toggle
+        nodeId="TZyX8RH6l"
+        width="1fr"
+        height="fit-content"
+        zIndex="1"
+        overflow="visible"
+        layout="stack"
+        padding="0px 16px 0px 16px"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+    >
+      <Balance
+          nodeId="LB0rMeg6_"
+          position="sticky"
+          width="100%"
+          height="fit-content"
+          top="0px"
+          componentId="BHh1u0HHU"
+          variant="OMZ1Zp0Dx"
+          tkpTekswf="/#toggle-on-anchor"
+          Mkaa9Qvj6="/#toggle-start-animation"
+       />
+      <ToggleStartAnimation
+          nodeId="I4lEteHML"
+          position="absolute"
+          width="8px"
+          height="8px"
+          top="244px"
+          left="0px"
+          aspectRatio="1"
+          zIndex="5"
+          overflow="hidden"
+       />
+      <Container100Vh
+          nodeId="zIQiELWfJ"
+          locked="true"
+          width="1fr"
+          height="100vh"
+          overflow="visible"
+      >
+        <ToggleOnAnimation
+            nodeId="F2tmwECmI"
+            locked="true"
+            position="absolute"
+            width="8px"
+            height="8px"
+            left="0px"
+            centerY="50%"
+            aspectRatio="1"
+            zIndex="5"
+            overflow="hidden"
+         />
+        <ToggleOnAnchor
+            nodeId="uwAZIFWUQ"
+            locked="true"
+            position="absolute"
+            width="8px"
+            height="8px"
+            left="0px"
+            centerY="34%"
+            aspectRatio="1"
+            zIndex="5"
+            overflow="hidden"
+         />
+        <DarkNav1
+            nodeId="tA4SqKO3q"
+            locked="true"
+            position="absolute"
+            width="8px"
+            height="8px"
+            top="-16px"
+            left="0px"
+            aspectRatio="1"
+            zIndex="5"
+            overflow="hidden"
+         />
+      </Container100Vh>
+    </Toggle>
+    <OurPhilosophy
+        nodeId="zTaKqh6o7"
+        width="1fr"
+        height="fit-content"
+        zIndex="1"
+        overflow="hidden"
+        layout="stack"
+        padding="200px 0px 0px 0px"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+    >
+      <OurPhilosophy
+          nodeId="O7vmtKGgu"
+          width="1fr"
+          height="fit-content"
+          backgroundColor="/Colors/Subtle Grey"
+          zIndex="1"
+          overflow="hidden"
+          layout="stack"
+          gap="64px"
+          padding="79px 0px 79px 0px"
+          stackDirection="vertical"
+          stackDistribution="center"
+          stackAlignment="center"
+      >
+        <Icon
+            nodeId="rg8i_NCSv"
+            width="fit-content"
+            height="fit-content"
+            overflow="hidden"
+            layout="stack"
+            gap="24px"
+            stackDirection="vertical"
+            stackDistribution="center"
+            stackAlignment="center"
+        >
+          <TheMomentOfRecognition
+              nodeId="F6vrbXWxP"
+              width="fit-content"
+              height="fit-content"
+              inlineTextStyle="/Text Styles/Body Caps"
+          >
+            THE MOMENT OF RECOGNITION
+          </TheMomentOfRecognition>
+        </Icon>
+        <TextReveal
+            nodeId="ldGd3wpDB"
+            width="1fr"
+            height="fit-content"
+            overflow="hidden"
+            layout="stack"
+            padding="0px 64px 0px 64px"
+            stackDirection="vertical"
+            stackDistribution="center"
+            stackAlignment="center"
+        >
+          <TextScrollReveal
+              nodeId="HVAL9wFKO"
+              width="1fr"
+              height="fit-content"
+              maxWidth="1200px"
+              text="Sometimes the vision arrives faster than the architecture required to hold it.
+Every new possibility opens another direction. The product is evolving while its identity is still forming. Decisions about brand, market, technology, and business model are being made simultaneously—each shaping the others.
+There is tremendous intelligence in what is emerging. But the whole has not yet found its form.
+And sometimes the architecture already exists, but the coherence has begun to fracture.
+Decisions that should take one conversation now take four. The same words mean different things across the leadership team. Direction holds in the room and breaks in execution. The work is undeniable, but the market doesn't quite see what you see. You are doing more, and getting less.
+Different moments. The same underlying question:
+What does this system require to move as one?               
+This is where ARCMA's work begins.
+"
+              htmlTag="h4"
+              type="word"
+              font="{"fontWeight":400,"fontStyle":"normal","fontFamily":"\"Kobe1.1 Regular\", \"Kobe1.1 Regular Placeholder\", sans-serif","fontSize":"44px","lineHeight":"120%","textAlign":"center","letterSpacing":"-0.03em","fontFeatureSettings":"'ss02' on"}"
+              color="rgb(123, 158, 135)"
+              opacity="{"minOpacity":0.2,"maxOpacity":1}"
+              appear="{"start":"1","end":"0","transition":{"type":"spring","stiffness":500,"damping":60,"mass":1,"delay":0}}"
+           />
+        </TextReveal>
+        <Button
+            nodeId="fnWnZKj7A"
+            width="fit-content"
+            height="fit-content"
+            componentId="eDfCBUtV4"
+            variant="u8HuHyxeS"
+            tYSaFf25Y="About ARCMA"
+            YfWZu3XMt="rgb(123, 158, 135)"
+            e6YXpJlcZ="rgb(232, 224, 204)"
+            OrVY6CgcP="rgb(232, 224, 204)"
+            mXtmyujuo="/about"
+         />
+      </OurPhilosophy>
+    </OurPhilosophy>
+    <Stack
+        nodeId="vo4cVlsNN"
+        width="1fr"
+        height="fit-content"
+        backgroundColor="rgba(0,0,0,0)"
+        zIndex="1"
+        overflow="hidden"
+        layout="stack"
+        gap="120px"
+        padding="80px 0px 80px 0px"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+    >
+      <Stack
+          nodeId="mi3ej8Rd1"
+          width="100%"
+          height="fit-content"
+          maxWidth="1600px"
+          backgroundColor="rgba(0,0,0,0)"
+          overflow="visible"
+          layout="stack"
+          gap="10px"
+          padding="0px 56px 0px 56px"
+          stackDirection="horizontal"
+          stackDistribution="center"
+          stackAlignment="center"
+      >
+        <Grid
+            nodeId="B0Qv0Qlew"
+            width="1fr"
+            height="fit-content"
+            borderRadius="0px 0px 0px 0px"
+            overflow="hidden"
+            layout="grid"
+            gap="16px"
+            padding="0px 8px 0px 8px"
+            gridColumns="2"
+            gridRows="2"
+            gridAlignment="center"
+            gridColumnWidthType="minmax"
+            gridColumnWidth="200"
+            gridColumnMinWidth="50"
+            gridRowHeightType="fixed"
+            gridRowHeight="720"
+        >
+          <ServiceCard
+              nodeId="x7kPn_ix4"
+              width="1fr"
+              height="720px"
+              componentId="LGvAWBCZM"
+              variant="VOyURVOE3"
+              qnwE2mFVn="<h6 dir="auto">THE  DIAGNOSTIC</h6>"
+              bDvWDMS7e="For the founder-led organization that has reached a structural moment. A three-to-four-week reading of where the system holds and where it has fractured. Delivers a named diagnosis, a detailed report leadership can hold and reference, sequenced recommendations, and a working session with the founder. The entry into the work."
+              LSIkzmq9B="200"
+              BvQdXLu3_="/the-work"
+              srQJJTXxA="https://framerusercontent.com/images/3H91y85ssDkQtZuO22KNxkCPGE.png"
+           />
+          <ServiceCard
+              nodeId="b8Wyt2a9l"
+              width="1fr"
+              height="720px"
+              componentId="LGvAWBCZM"
+              variant="VOyURVOE3"
+              qnwE2mFVn="<h6 dir="auto">THE  ENGAGEMENT</h6>"
+              bDvWDMS7e="For organizations whose next phase requires the system to move as one. The deeper work. High-touch and system-level. Scope is shaped by what the diagnostic surfaces. Engagements move across leadership, structure, brand, and the way the organization meets the market. Wherever the work begins, the path leads to the same center."
+              LSIkzmq9B="200"
+              BvQdXLu3_="/the-work"
+              srQJJTXxA="https://framerusercontent.com/images/noJtAykbYTtzxtavq3qnsst4c.png"
+           />
+          <ServiceCard
+              nodeId="FT8oy9bgz"
+              width="1fr"
+              height="720px"
+              componentId="LGvAWBCZM"
+              variant="VOyURVOE3"
+              qnwE2mFVn="<h6 dir="auto">AI  KNOWLEDGE  ARCHITECTURE</h6>"
+              bDvWDMS7e="For expertise-heavy organizations preparing to deploy or scale AI. AI amplifies whatever signal is present. The work begins by reading the coherence of what an organization actually knows — then translating what is implicit into structures an AI system can hold and transmit without amplifying what should not be amplified."
+              LSIkzmq9B="200"
+              BvQdXLu3_="/the-work"
+              srQJJTXxA="https://framerusercontent.com/images/ZzY597Fu0rd57O0LFXxO7xsUss.png"
+           />
+          <ServiceCard
+              nodeId="e5p4wkCQY"
+              width="1fr"
+              height="720px"
+              componentId="LGvAWBCZM"
+              variant="VOyURVOE3"
+              qnwE2mFVn="<h6 dir="auto">THE  COHERENCE  MODEL</h6>"
+              bDvWDMS7e="Five concentric layers, one center. Source. Signal. System. Story. Transmission. The architecture beneath every engagement Arcma holds — the framework that organizes how the work moves."
+              LSIkzmq9B="200"
+              BvQdXLu3_="/coherence-model"
+              srQJJTXxA="https://framerusercontent.com/images/2X6oDzIF5wfdMoq2q77sDyHYrA.png"
+           />
+        </Grid>
+      </Stack>
+    </Stack>
+    <StoryA
+        nodeId="VC5LY2QqA"
+        width="1fr"
+        height="fit-content"
+        backgroundColor="/Colors/Subtle Grey"
+        overflow="visible"
+        layout="stack"
+        padding="200px 0px 160px 0px"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+    >
+      <StoryA
+          nodeId="tj4QGXHW7"
+          position="absolute"
+          width="8px"
+          height="200vh"
+          top="-40px"
+          left="0px"
+          overflow="hidden"
+       />
+      <Stories
+          nodeId="r_SdLaDBD"
+          width="1fr"
+          height="fit-content"
+          maxWidth="1600px"
+          layout="stack"
+          stackDirection="vertical"
+          stackDistribution="center"
+          stackAlignment="start"
+      >
+        <Story
+            nodeId="I5iGvZswy"
+            width="1fr"
+            height="fit-content"
+            linkOpenInNewTab="false"
+            zIndex="1"
+            overflow="visible"
+            layout="stack"
+            padding="0px 56px 0px 56px"
+            stackDirection="horizontal"
+            stackDistribution="center"
+            stackAlignment="start"
+        >
+          <Story
+              nodeId="TikfUC2FZ"
+              width="1fr"
+              height="fit-content"
+              componentId="FRbQ3ExVo"
+              variant="Wbc6VdHfX"
+              f6y4FWnC9="/case-studies/:slug"
+              v0cU_wkM8="The Threshold"
+              uI8PKA55I="Arcma works with leaders and organizations at moments of birth and rebirth. Birth — when a founder carries extraordinary vision but the organization has not yet been built to carry it. Rebirth — when growth or change has fragmented the alignment between leadership, culture, brand, and market, and the organization must return to its center to evolve. Both are threshold moments. Both require returning to the source."
+              rW9z0rI61="{"src":"https://framerusercontent.com/images/Yv6XhhrlIGe2GjEh3SCAxMZ5Fc.jpg?width=1080&height=1920","type":"image","value":"data:framer/asset-reference,Yv6XhhrlIGe2GjEh3SCAxMZ5Fc.jpg?originalFilename=5fe29ba4fd858acbb1a7732b701a413d.jpg&width=1080&height=1920","pixelWidth":1080,"pixelHeight":1920}"
+              ABxz05PMR="{"src":"https://framerusercontent.com/images/ehTsEHFiBkffT8YDEVhEbi06rc.jpg?width=1200&height=1800","type":"image","value":"data:framer/asset-reference,ehTsEHFiBkffT8YDEVhEbi06rc.jpg?originalFilename=6ab837ed6b098529c24295a0016d5848.jpg&width=1200&height=1800","pixelWidth":1200,"pixelHeight":1800}"
+              eeudRFT13="Who this work is for."
+              YKjsHYVFz="true"
+           />
+        </Story>
+      </Stories>
+    </StoryA>
+    <TextSection
+        nodeId="KYn0qDs51"
+        width="1fr"
+        height="fit-content"
+        backgroundColor="/Colors/Subtle Grey"
+        overflow="hidden"
+        layout="stack"
+        padding="160px 0px 160px 0px"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+    >
+      <Sections
+          nodeId="zw51aZyfm"
+          width="100%"
+          height="fit-content"
+          maxWidth="1600px"
+          zIndex="1"
+          overflow="hidden"
+          layout="stack"
+          padding="0px 56px 0px 56px"
+          stackDirection="horizontal"
+          stackDistribution="center"
+          stackAlignment="start"
+      >
+        <Section
+            nodeId="UtqTYutW7"
+            width="6fr"
+            height="fit-content"
+            overflow="hidden"
+            layout="stack"
+            padding="0px 0px 0px 0px"
+            stackDirection="horizontal"
+            stackDistribution="center"
+            stackAlignment="start"
+        >
+          <TextContainer
+              nodeId="giYvJ288L"
+              width="1fr"
+              height="fit-content"
+              overflow="hidden"
+              layout="stack"
+              gap="48px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <MostConsultanciesAddressFragmentsOfLeadershipCultureBrandOrM
+                nodeId="HvsTlr1lM"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 2"
+            >
+              Most consultancies address fragments of leadership, culture, brand, or marketing. Arcma addresses the source condition from which all four emanate.
+            </MostConsultanciesAddressFragmentsOfLeadershipCultureBrandOrM>
+          </TextContainer>
+        </Section>
+        <Section
+            nodeId="wE7q1cGLJ"
+            width="2fr"
+            height="1fr"
+            overflow="hidden"
+            padding="0px 0px 0px 0px"
+         />
+        <Section
+            nodeId="C350EM7mE"
+            width="4fr"
+            height="fit-content"
+            overflow="hidden"
+            layout="stack"
+            padding="0px 0px 0px 0px"
+            stackDirection="horizontal"
+            stackDistribution="center"
+            stackAlignment="start"
+        >
+          <TextContainer
+              nodeId="CLH2E6hSD"
+              width="1fr"
+              height="fit-content"
+              overflow="hidden"
+              layout="stack"
+              gap="48px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <ArcmaDoesNotApplyExternalStrategiesItBeginsAtTheCenterClarif
+                nodeId="dH5DXsPcE"
+                width="1fr"
+                height="fit-content"
+                maxWidth="480px"
+                inlineTextStyle="/Text Styles/Heading 5"
+            >
+              ARCMA does not apply external strategies. It begins at the center — clarifying the source and aligning the systems that carry it. The distinction is between organizations that import strategy and organizations that emanate it.
+            </ArcmaDoesNotApplyExternalStrategiesItBeginsAtTheCenterClarif>
+          </TextContainer>
+        </Section>
+      </Sections>
+    </TextSection>
+    <BigQuote
+        nodeId="m36uY8Awm"
+        width="1fr"
+        height="fit-content"
+        minHeight="120vh"
+        backgroundColor="/Colors/White"
+        overflow="hidden"
+        layout="stack"
+        gap="80px"
+        padding="160px 0px 160px 0px"
+        stackDirection="vertical"
+        stackDistribution="end"
+        stackAlignment="center"
+    >
+      <BigQuote
+          nodeId="yRhrNBOyx"
+          position="absolute"
+          width="8px"
+          height="100vh"
+          top="-40px"
+          left="0px"
+          overflow="hidden"
+       />
+      <ImageParallaxVerticalNoize
+          nodeId="r1FRsGYQY"
+          position="absolute"
+          top="0px"
+          right="0px"
+          bottom="0px"
+          left="0px"
+          image="https://framerusercontent.com/images/RSJLX7XLNNMOnsv4FhpGHGDRBw.jpg"
+          parallax="500"
+          noizeVisible="true"
+          noizeOpacity="0.1"
+       />
+      <Animator
+          nodeId="grBPwV4oi"
+          position="absolute"
+          width="680px"
+          height="2000px"
+          centerX="72%"
+          centerY="50%"
+          componentId="xzAiypU"
+          animate="true"
+          start="top 50%"
+          end="bottom 50%"
+          scrub="0.5"
+       />
+      <Animator
+          nodeId="mDnYVZE1_"
+          opacity="0.2"
+          position="absolute"
+          width="680px"
+          height="2000px"
+          centerX="72%"
+          centerY="50%"
+          componentId="xzAiypU"
+          animate="true"
+          start="top 50%"
+          end="bottom 50%"
+          scrub="0.5"
+       />
+      <Text
+          nodeId="Ee5DkuWhN"
+          width="100%"
+          height="fit-content"
+          maxWidth="1600px"
+          zIndex="1"
+          overflow="hidden"
+          layout="stack"
+          padding="0px 56px 0px 56px"
+          stackDirection="horizontal"
+          stackDistribution="center"
+          stackAlignment="start"
+      >
+        <Headline
+            nodeId="FRpN0XEFB"
+            width="1fr"
+            height="fit-content"
+            overflow="hidden"
+            layout="stack"
+            gap="32px"
+            padding="0px 8px 0px 8px"
+            stackDirection="vertical"
+            stackDistribution="center"
+            stackAlignment="start"
+        >
+          <EverythingIsAligned
+              nodeId="f1VhQ7P7w"
+              width="1fr"
+              height="fit-content"
+              maxWidth="720px"
+              inlineTextStyle="/Text Styles/Heading 1"
+          >
+            &quot;Everything is aligned.&quot;
+          </EverythingIsAligned>
+          <TheFeltExperienceOfCoherence
+              nodeId="NK1KiPFUp"
+              width="1fr"
+              height="fit-content"
+              inlineTextStyle="/Text Styles/Body L"
+          >
+            — The felt experience of coherence
+          </TheFeltExperienceOfCoherence>
+        </Headline>
+      </Text>
+      <ShapeContainer
+          nodeId="w1T2auUDS"
+          position="absolute"
+          height="351.5px"
+          right="0px"
+          left="0px"
+          centerY="0%"
+          aspectRatio="3.414"
+          overflow="hidden"
+      >
+        <Shape
+            nodeId="zB7rugNsq"
+            position="absolute"
+            top="0px"
+            right="-1px"
+            bottom="0px"
+            left="-1px"
+            svg="<svg width="1516" height="443" viewBox="-1 -1 1516 443" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 441V0H1514V441C1514 441 1214.5 229 757 229C299.5 229 0 441 0 441Z" fill="#FAFAFA"/>
+</svg>
+"
+         />
+      </ShapeContainer>
+    </BigQuote>
+    <Journal
+        nodeId="ZEqfxDk8X"
+        width="1fr"
+        height="fit-content"
+        backgroundColor="/Colors/Antique Brass"
+        overflow="hidden"
+        layout="stack"
+        padding="0px 0px 0px 0px"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+    >
+      <Header
+          nodeId="irOFOGkz4"
+          width="100%"
+          height="fit-content"
+          maxWidth="1600px"
+          linkOpenInNewTab="false"
+          backgroundColor="/Colors/Green"
+          zIndex="1"
+          overflow="hidden"
+          layout="stack"
+          padding="0px 56px 0px 56px"
+          stackDirection="horizontal"
+          stackDistribution="center"
+          stackAlignment="start"
+      >
+        <TextContainer
+            nodeId="Kv38eESeC"
+            width="1fr"
+            height="fit-content"
+            borderRadius="0px 0px 0px 0px"
+            overflow="visible"
+            layout="stack"
+            gap="44px"
+            padding="108px 8px 108px 8px"
+            stackDirection="vertical"
+            stackDistribution="center"
+            stackAlignment="center"
+        >
+          <SectionIcon
+              nodeId="GQO5FHBpm"
+              width="fit-content"
+              height="fit-content"
+              overflow="hidden"
+              layout="stack"
+              gap="24px"
+              stackDirection="vertical"
+              stackDistribution="center"
+              stackAlignment="center"
+          >
+            <Triangle
+                nodeId="weiPV5cJI"
+                width="40px"
+                height="40px"
+                aspectRatio="1"
+                componentId="zDsJEhjsA"
+             />
+            <TheJournal
+                nodeId="WYd800igy"
+                width="fit-content"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body Caps"
+            >
+              THE JOURNAL
+            </TheJournal>
+          </SectionIcon>
+          <Headline
+              nodeId="jG_rR78NE"
+              width="1fr"
+              height="fit-content"
+              overflow="visible"
+              layout="stack"
+              gap="24px"
+              stackDirection="vertical"
+              stackDistribution="center"
+              stackAlignment="center"
+          >
+            <DeeperIntoTheArc
+                nodeId="aBIxOLkSJ"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 2"
+            >
+              Deeper into the Arc
+            </DeeperIntoTheArc>
+            <CaseStudiesDeeperDivesIntoTheCoherenceModelAndReflectionsOnW
+                nodeId="Wq5OQwIxa"
+                width="1fr"
+                height="fit-content"
+                maxWidth="640px"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              Case studies, deeper dives into the coherence model, and reflections on what happens when organizations return to their source.
+            </CaseStudiesDeeperDivesIntoTheCoherenceModelAndReflectionsOnW>
+          </Headline>
+          <Button
+              nodeId="u4FmStK_l"
+              width="fit-content"
+              height="fit-content"
+              componentId="eDfCBUtV4"
+              variant="u8HuHyxeS"
+              tYSaFf25Y="Read the Journal"
+              YfWZu3XMt="rgb(26, 31, 29)"
+              e6YXpJlcZ="rgb(232, 224, 204)"
+              OrVY6CgcP="rgb(232, 224, 204)"
+              mXtmyujuo="/journal"
+           />
+        </TextContainer>
+      </Header>
+      <Articles
+          nodeId="GCpLEP6r8"
+          width="1fr"
+          height="fit-content"
+          maxWidth="1600px"
+          linkOpenInNewTab="false"
+          backgroundColor="/Colors/Antique Brass"
+          zIndex="1"
+          overflow="visible"
+          layout="stack"
+          gap="120px"
+          padding="132px 64px 132px 64px"
+          stackDirection="horizontal"
+          stackDistribution="center"
+          stackAlignment="start"
+      >
+        <Journals
+            nodeId="ugyAYa9s3"
+            width="1fr"
+            height="fit-content"
+            layout="stack"
+            stackDirection="vertical"
+            stackDistribution="center"
+            stackAlignment="center"
+        >
+          <Journal
+              nodeId="RA8Vmr10C"
+              width="1fr"
+              height="fit-content"
+              layout="stack"
+              gap="40px"
+              stackDirection="vertical"
+              stackDistribution="center"
+              stackAlignment="center"
+          >
+            <StoneCard
+                nodeId="qP4BynKuC"
+                width="1fr"
+                height="fit-content"
+                componentId="lyJ_vNc6e"
+                variant="paOkx7lpI"
+                YtnrQdtwB="When Marketing Is Separated from Source "
+                GUPwumNDm="(and why technically correct marketing still fails)"
+                ff1omw1Do="/journal/:slug"
+                UxvZpJvWp="{"src":"https://framerusercontent.com/images/PgJhhonnRBWmt7qTxJchij9PRFM.jpg?width=680&height=680","type":"image","value":"data:framer/asset-reference,PgJhhonnRBWmt7qTxJchij9PRFM.jpg?originalFilename=360aa319f9f2b43ea137076659fa4aa9.jpg&preferredSize=auto&width=680&height=680","alt":"ARCMA","pixelWidth":680,"pixelHeight":680}"
+                KEfS5Eho5="nTeUk6AAD"
+                Ck1Fg4mVB="u8HuHyxeS"
+             />
+          </Journal>
+        </Journals>
+        <Journals
+            nodeId="vwU1utf6W"
+            width="1fr"
+            height="fit-content"
+            layout="stack"
+            padding="100px 0px 0px 0px"
+            stackDirection="vertical"
+            stackDistribution="center"
+            stackAlignment="center"
+        >
+          <Journal
+              nodeId="p4znGIEn3"
+              width="1fr"
+              height="fit-content"
+              layout="stack"
+              gap="40px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="center"
+          >
+            <StoneCard
+                nodeId="ZttSYuLSo"
+                width="1fr"
+                height="fit-content"
+                componentId="lyJ_vNc6e"
+                variant="paOkx7lpI"
+                YtnrQdtwB="Organizational Coherence: Ontology of Performance"
+                GUPwumNDm="It's not a philosophy. It's an operational state — visible in how decisions move, how teams organize, and how the brand lands in the market."
+                ff1omw1Do="/journal/:slug"
+                UxvZpJvWp="{"src":"https://framerusercontent.com/images/1JjH9NQN8Q6WF0gscUWpLaDxH4.jpg?width=1042&height=645","type":"image","value":"data:framer/asset-reference,1JjH9NQN8Q6WF0gscUWpLaDxH4.jpg?originalFilename=6908f7e87a15017ffecf7040bdb9b257.jpg&preferredSize=auto&width=1042&height=645","alt":"ARCMA","pixelWidth":1042,"pixelHeight":645}"
+                KEfS5Eho5="znsulWTnT"
+                Ck1Fg4mVB="u8HuHyxeS"
+             />
+          </Journal>
+        </Journals>
+        <Journals
+            nodeId="KrL5LyHMl"
+            width="1fr"
+            height="fit-content"
+            layout="stack"
+            stackDirection="vertical"
+            stackDistribution="center"
+            stackAlignment="center"
+        >
+          <Journal
+              nodeId="qeA7kmydl"
+              width="1fr"
+              height="fit-content"
+              layout="stack"
+              gap="40px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="center"
+          >
+            <StoneCard
+                nodeId="kWVVF8cpR"
+                width="1fr"
+                height="fit-content"
+                componentId="lyJ_vNc6e"
+                variant="paOkx7lpI"
+                YtnrQdtwB="ARCMA’s Six Laws of Organizational Coherence"
+                GUPwumNDm="Every organization eventually discovers that growth does not merely increase scale.  It reveals structure."
+                ff1omw1Do="/journal/:slug"
+                UxvZpJvWp="{"src":"https://framerusercontent.com/images/SeVrbSIZAJVZKOfzy9AOR79SnU.jpg?width=514&height=756","type":"image","value":"data:framer/asset-reference,SeVrbSIZAJVZKOfzy9AOR79SnU.jpg?originalFilename=fb558fa754dac240866924c1995e4f00.jpg&preferredSize=auto&width=514&height=756","alt":"ARCMA","pixelWidth":514,"pixelHeight":756}"
+                KEfS5Eho5="NbL9KK3eQ"
+                Ck1Fg4mVB="u8HuHyxeS"
+             />
+          </Journal>
+        </Journals>
+      </Articles>
+    </Journal>
+    <TextSection
+        nodeId="Il3MQD0FJ"
+        width="1fr"
+        height="fit-content"
+        backgroundColor="/Colors/Subtle Grey"
+        overflow="hidden"
+        layout="stack"
+        padding="160px 0px 160px 0px"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+    >
+      <Sections
+          nodeId="uRP5WpRAO"
+          width="100%"
+          height="fit-content"
+          maxWidth="1600px"
+          zIndex="1"
+          overflow="hidden"
+          layout="stack"
+          padding="0px 56px 0px 56px"
+          stackDirection="horizontal"
+          stackDistribution="center"
+          stackAlignment="start"
+      >
+        <Section
+            nodeId="bUgBj3LK4"
+            width="6fr"
+            height="fit-content"
+            overflow="hidden"
+            layout="stack"
+            padding="0px 0px 0px 0px"
+            stackDirection="horizontal"
+            stackDistribution="center"
+            stackAlignment="start"
+        >
+          <TextContainer
+              nodeId="oQ3nQXyIh"
+              width="1fr"
+              height="fit-content"
+              overflow="hidden"
+              layout="stack"
+              gap="48px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <WhenTheSourceIsCoherentEverythingEmanatesInAlignment
+                nodeId="FXH5FX9O2"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 2"
+            >
+              When the source is coherent, everything emanates in alignment.
+            </WhenTheSourceIsCoherentEverythingEmanatesInAlignment>
+          </TextContainer>
+        </Section>
+        <Section
+            nodeId="fSJBRvI6W"
+            width="2fr"
+            height="1fr"
+            overflow="hidden"
+            padding="0px 0px 0px 0px"
+         />
+        <Section
+            nodeId="bQSMnP0_e"
+            width="4fr"
+            height="fit-content"
+            overflow="hidden"
+            layout="stack"
+            padding="0px 0px 0px 0px"
+            stackDirection="horizontal"
+            stackDistribution="center"
+            stackAlignment="start"
+        >
+          <TextContainer
+              nodeId="V0qufgmFk"
+              width="1fr"
+              height="fit-content"
+              overflow="hidden"
+              layout="stack"
+              gap="48px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <CoherenceDoesnTImproveYourStrategyItEmanatesItFromOneCoheren
+                nodeId="AL4ACs94i"
+                width="1fr"
+                height="fit-content"
+                maxWidth="480px"
+                inlineTextStyle="/Text Styles/Body L"
+            >
+              Coherence doesn&apos;t improve your strategy. It emanates it. From one coherent point — every decision, every action, every result — emanates.
+            </CoherenceDoesnTImproveYourStrategyItEmanatesItFromOneCoheren>
+          </TextContainer>
+        </Section>
+      </Sections>
+    </TextSection>
+    <BookASession
+        nodeId="pqIjlvlRo"
+        width="1fr"
+        height="fit-content"
+        backgroundColor="/Colors/Antique Brass"
+        overflow="clip"
+        layout="stack"
+        padding="160px 0px 160px 0px"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+    >
+      <BookASession
+          nodeId="NNUqhOz15"
+          width="1fr"
+          height="fit-content"
+          componentId="G2XDwTXUy"
+          variant="Gtify0_iS"
+       />
+    </BookASession>
+    <FooterMenu
+        nodeId="jyeBWxSCm"
+        position="absolute"
+        width="8px"
+        height="8px"
+        bottom="40px"
+        left="0px"
+        zIndex="1"
+        overflow="hidden"
+     />
+  </MainContainer>
+  <Lenis
+      nodeId="NTpfwaQq3"
+      width="fit-content"
+      height="fit-content"
+      smooth="true"
+      intensity="20"
+      infinite="false"
+      orientation="vertical"
+   />
+  <Navbar
+      nodeId="ED55BNPMt"
+      position="fixed"
+      width="100%"
+      height="96px"
+      top="0px"
+      centerX="50%"
+      componentId="JTE_ljjiM"
+      variant="IQJ5C1pEN"
+      kNcB50xza="El4aBpM3m"
+   />
+  <CustomCursor
+      nodeId="UnUUdWN1k"
+      width="1px"
+      height="1px"
+      componentId="o3k5QYG"
+   />
+</Desktop>
+<Tablet
+    nodeId="d03XGcmc4"
+    position="absolute"
+    width="810px"
+    height="fit-content"
+    top="0px"
+    left="1300px"
+    backgroundColor="/Colors/White"
+    overflow="hidden"
+    layout="stack"
+    stackDirection="vertical"
+    stackDistribution="start"
+    stackAlignment="center"
+ />
+<Phone
+    nodeId="OAQX7JCmo"
+    position="absolute"
+    width="390px"
+    height="fit-content"
+    top="0px"
+    left="2210px"
+    backgroundColor="/Colors/White"
+    overflow="hidden"
+    layout="stack"
+    stackDirection="vertical"
+    stackDistribution="start"
+    stackAlignment="center"
+ />
+<Frame
+    nodeId="RjuzKbDt_"
+    position="absolute"
+    width="100px"
+    height="100px"
+    top="0px"
+    left="0px"
+    backgroundColor="rgba(255,255,255,1)"
+ />

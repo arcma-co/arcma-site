@@ -1,0 +1,69 @@
+# Links each content key to the Framer layer or CMS field that renders it.
+# A slot with no field is the layer's own text; a field is a component property id.
+
+pages:
+  home:
+    page: augiA20Il
+    path: /
+    content: content/pages/home.yaml
+    slots:
+      hero.headline: {node: WjV4zhm1L}
+      hero.body: {node: aHdGg0pBH}
+      hero.cta.label: {node: qW4ABOiUK, field: tYSaFf25Y}
+      hero.cta.href: {node: qW4ABOiUK, field: mXtmyujuo}
+      recognition.label: {node: F6vrbXWxP}
+      recognition.body: {node: HVAL9wFKO, field: text}
+      recognition.cta.label: {node: fnWnZKj7A, field: tYSaFf25Y}
+      recognition.cta.href: {node: fnWnZKj7A, field: mXtmyujuo}
+      archways.0.title: {node: x7kPn_ix4, field: qnwE2mFVn, format: h6}
+      archways.0.body: {node: x7kPn_ix4, field: bDvWDMS7e}
+      archways.0.href: {node: x7kPn_ix4, field: BvQdXLu3_}
+      archways.0.image: {node: x7kPn_ix4, field: srQJJTXxA, format: image}
+      archways.1.title: {node: b8Wyt2a9l, field: qnwE2mFVn, format: h6}
+      archways.1.body: {node: b8Wyt2a9l, field: bDvWDMS7e}
+      archways.1.href: {node: b8Wyt2a9l, field: BvQdXLu3_}
+      archways.1.image: {node: b8Wyt2a9l, field: srQJJTXxA, format: image}
+      archways.2.title: {node: FT8oy9bgz, field: qnwE2mFVn, format: h6}
+      archways.2.body: {node: FT8oy9bgz, field: bDvWDMS7e}
+      archways.2.href: {node: FT8oy9bgz, field: BvQdXLu3_}
+      archways.2.image: {node: FT8oy9bgz, field: srQJJTXxA, format: image}
+      archways.3.title: {node: e5p4wkCQY, field: qnwE2mFVn, format: h6}
+      archways.3.body: {node: e5p4wkCQY, field: bDvWDMS7e}
+      archways.3.href: {node: e5p4wkCQY, field: BvQdXLu3_}
+      archways.3.image: {node: e5p4wkCQY, field: srQJJTXxA, format: image}
+      threshold.label: {node: TikfUC2FZ, field: eeudRFT13}
+      threshold.title: {node: TikfUC2FZ, field: v0cU_wkM8}
+      threshold.body: {node: TikfUC2FZ, field: uI8PKA55I}
+      threshold.href: {node: TikfUC2FZ, field: f6y4FWnC9}
+      threshold.images.0: {node: TikfUC2FZ, field: rW9z0rI61, format: image}
+      threshold.images.1: {node: TikfUC2FZ, field: ABxz05PMR, format: image}
+      distinction.headline: {node: HvsTlr1lM}
+      distinction.body: {node: dH5DXsPcE}
+      felt_outcome.quote: {node: f1VhQ7P7w}
+      felt_outcome.attribution: {node: NK1KiPFUp}
+      journal.label: {node: WYd800igy}
+      journal.headline: {node: aBIxOLkSJ}
+      journal.body: {node: Wq5OQwIxa}
+      journal.cta.label: {node: u4FmStK_l, field: tYSaFf25Y}
+      journal.cta.href: {node: u4FmStK_l, field: mXtmyujuo}
+      journal.featured.0.title: {node: qP4BynKuC, field: YtnrQdtwB}
+      journal.featured.0.subtitle: {node: qP4BynKuC, field: GUPwumNDm}
+      journal.featured.0.href: {node: qP4BynKuC, field: ff1omw1Do}
+      journal.featured.0.image: {node: qP4BynKuC, field: UxvZpJvWp, format: image}
+      journal.featured.1.title: {node: ZttSYuLSo, field: YtnrQdtwB}
+      journal.featured.1.subtitle: {node: ZttSYuLSo, field: GUPwumNDm}
+      journal.featured.1.href: {node: ZttSYuLSo, field: ff1omw1Do}
+      journal.featured.1.image: {node: ZttSYuLSo, field: UxvZpJvWp, format: image}
+      journal.featured.2.title: {node: kWVVF8cpR, field: YtnrQdtwB}
+      journal.featured.2.subtitle: {node: kWVVF8cpR, field: GUPwumNDm}
+      journal.featured.2.href: {node: kWVVF8cpR, field: ff1omw1Do}
+      journal.featured.2.image: {node: kWVVF8cpR, field: UxvZpJvWp, format: image}
+      doctrine.headline: {node: FXH5FX9O2}
+      doctrine.body: {node: AL4ACs94i}
+cms:
+  stories:
+    collection: Yg35KMxfO
+    content: content/cases/
+    fields: {title: ZOkcZX5Jy, name: NSWAxfcNk, intro: JHMfaI0Ry, tags: tSuSlypWj, quote: p1zkIJ5WC, challenge: Vk6bSR87d, image_1: bV3_xiO3j, image_2: aiJmHzZdS, alignment: aVaZaQHBJ}
+    body: {lead: EUGmQ5W5N, text-a: FaLTkKzKE, text-b: h1sQeOJXK}
+    items: {cultural-architecture-operationalizing-integrity-under-compliance-pressure: KKUqUjNFQ, case-1-structural-coherence-multi-acquisition-integration: FVPWS_ucy, post-merge-operational-value-integration: Cfuafas3C, merger-integration-case-study: hmcWm5vEy, culture-architecture-operational-coherence: aTQWic7Jl}

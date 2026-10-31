@@ -1,0 +1,178 @@
+[
+  {
+    "id": "Yg35KMxfO",
+    "name": "Stories",
+    "managedBy": "user",
+    "readonly": false,
+    "fields": [
+      {
+        "id": "ZOkcZX5Jy",
+        "name": "Title",
+        "type": "string",
+        "comment": "JSON string - Plain text value (e.g., \"Hello World\")",
+        "required": true
+      },
+      {
+        "id": "tSuSlypWj",
+        "name": "Tags",
+        "type": "string",
+        "comment": "JSON string - Plain text value (e.g., \"Hello World\")",
+        "required": true
+      },
+      {
+        "id": "NSWAxfcNk",
+        "name": "Name",
+        "type": "string",
+        "comment": "JSON string - Plain text value (e.g., \"Hello World\")",
+        "required": true
+      },
+      {
+        "id": "JHMfaI0Ry",
+        "name": "Intro",
+        "type": "string",
+        "comment": "JSON string - Plain text value (e.g., \"Hello World\")",
+        "required": false
+      },
+      {
+        "id": "bV3_xiO3j",
+        "name": "Image 1",
+        "type": "image",
+        "comment": "JSON string or null - Image URL (e.g., \"https://example.com/image.jpg\")",
+        "required": true
+      },
+      {
+        "id": "aiJmHzZdS",
+        "name": "Image 2",
+        "type": "image",
+        "comment": "JSON string or null - Image URL (e.g., \"https://example.com/image.jpg\")",
+        "required": true
+      },
+      {
+        "id": "p1zkIJ5WC",
+        "name": "Quote",
+        "type": "string",
+        "comment": "JSON string - Plain text value (e.g., \"Hello World\")",
+        "required": true
+      },
+      {
+        "id": "Vk6bSR87d",
+        "name": "Challenge",
+        "type": "string",
+        "comment": "JSON string - Plain text value (e.g., \"Hello World\")",
+        "required": true
+      },
+      {
+        "id": "EUGmQ5W5N",
+        "name": "Lead",
+        "type": "formattedText",
+        "comment": "JSON string - Markdown or HTML. If you omit contentType, Markdown is assumed unless the value looks like HTML (starts with <).",
+        "required": false
+      },
+      {
+        "id": "FaLTkKzKE",
+        "name": "Text A",
+        "type": "formattedText",
+        "comment": "JSON string - Markdown or HTML. If you omit contentType, Markdown is assumed unless the value looks like HTML (starts with <).",
+        "required": true
+      },
+      {
+        "id": "h1sQeOJXK",
+        "name": "Text B",
+        "type": "formattedText",
+        "comment": "JSON string - Markdown or HTML. If you omit contentType, Markdown is assumed unless the value looks like HTML (starts with <).",
+        "required": true
+      },
+      {
+        "id": "aVaZaQHBJ",
+        "name": "Alignment",
+        "type": "enum",
+        "comment": "JSON string - One of: \"I734AK1jZ\", \"JJpcZ4OoE\"",
+        "cases": [
+          {
+            "id": "I734AK1jZ",
+            "name": "Left"
+          },
+          {
+            "id": "JJpcZ4OoE",
+            "name": "Right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hL15ax4aL",
+    "name": "Journal",
+    "managedBy": "user",
+    "readonly": false,
+    "fields": [
+      {
+        "id": "no6PzoK1l",
+        "name": "Headline",
+        "type": "string",
+        "comment": "JSON string - Plain text value (e.g., \"Hello World\")",
+        "required": true
+      },
+      {
+        "id": "ubjwSoiWg",
+        "name": "Author",
+        "type": "string",
+        "comment": "JSON string - Plain text value (e.g., \"Hello World\")",
+        "required": true
+      },
+      {
+        "id": "lfuKIdAjg",
+        "name": "Publish Date",
+        "type": "string",
+        "comment": "JSON string - Plain text value (e.g., \"Hello World\")",
+        "required": true
+      },
+      {
+        "id": "bWK9myjyt",
+        "name": "Main Image",
+        "type": "image",
+        "comment": "JSON string or null - Image URL (e.g., \"https://example.com/image.jpg\")",
+        "required": true
+      },
+      {
+        "id": "fttV_eaqn",
+        "name": "Image Shape",
+        "type": "enum",
+        "comment": "JSON string - One of: \"IcJPnjL6Q\", \"WnFuJvhW3\", \"JFiXAFo1S\"",
+        "cases": [
+          {
+            "id": "IcJPnjL6Q",
+            "name": "A"
+          },
+          {
+            "id": "WnFuJvhW3",
+            "name": "B"
+          },
+          {
+            "id": "JFiXAFo1S",
+            "name": "C"
+          }
+        ]
+      },
+      {
+        "id": "lvUJwgv9l",
+        "name": "Article Icon",
+        "type": "unsupported"
+      },
+      {
+        "id": "F8wSR1pUr",
+        "name": "Intro Text",
+        "type": "string",
+        "comment": "JSON string - Plain text value (e.g., \"Hello World\")",
+        "required": true
+      },
+      {
+        "id": "KnAVD1Hxb",
+        "name": "Article Text",
+        "type": "formattedText",
+        "comment": "JSON string - Markdown or HTML. If you omit contentType, Markdown is assumed unless the value looks like HTML (starts with <).",
+        "required": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,318 @@
+<Project>
+  <Pages>
+    <Page nodeId="augiA20Il" path="/" />
+    <Page nodeId="QQ7iXJ3ER" path="/case-studies" />
+    <Page nodeId="yXcf8livs" path="/the-work" />
+    <Page nodeId="E0AxpTRgq" path="/case-studies/:slug" />
+    <Page nodeId="mOP4qjxd0" path="/journal" />
+    <Page nodeId="enT42eLt0" path="/journal/:slug" />
+    <Page nodeId="IevJ7eYCn" path="/404" />
+    <Page nodeId="JQqwjslgT" path="/contact" />
+    <Page nodeId="d_docMz97" path="/terms-of-use" />
+    <Page nodeId="SENpfkTNW" path="/about" />
+    <Page nodeId="T8dAic1AB" path="/privacy-policy" />
+    <Page nodeId="C03F4gea6" path="/coherence-model" />
+  </Pages>
+  <DesignPages />
+  <Components>
+    <Component nodeId="eDfCBUtV4" name="Button" />
+    <Component nodeId="z1dIApb96" name="Logo" />
+    <Component nodeId="K0KiXDB0g" name="Custom Link S" />
+    <Component nodeId="cVGID5OfB" name="Menu" />
+    <Component nodeId="Pv_sM74E_" name="Balance Toggle" />
+    <Component nodeId="BHh1u0HHU" name="Balance" />
+    <Component nodeId="HB2OfmyD_" name="Menu Container" />
+    <Component nodeId="LGvAWBCZM" name="Service Card" />
+    <Component nodeId="BMiZG_gfX" name="FAQ Item" />
+    <Component nodeId="ajULfIC23" name="FAQ Accordion" />
+    <Component nodeId="M68qppS73" name="Pricing Card" />
+    <Component nodeId="OOK4uZNaS" name="Price Toggle" />
+    <Component nodeId="xwSdnFAGG" name="Pricing Cards" />
+    <Component nodeId="lyJ_vNc6e" name="Stone Card" />
+    <Component nodeId="PNyRsgvYz" name="Button Social" />
+    <Component nodeId="aOTkix47E" name="Button Subscription Form" />
+    <Component nodeId="niZmG_oyU" name="Custom Link L" />
+    <Component nodeId="A22RxVr53" name="Mobile Menu Button" />
+    <Component nodeId="W5vJAOUL4" name="FAQ" />
+    <Component nodeId="CpWYpPTbn" name="User Image" />
+    <Component nodeId="UXBOXJqVm" name="Book a Session Form" />
+    <Component nodeId="wJ8R1QHTq" name="Button Book a Session Form" />
+    <Component nodeId="JTE_ljjiM" name="Navbar" />
+    <Component nodeId="uWpxTVnha" name="Big Number" />
+    <Component nodeId="G2XDwTXUy" name="Book A Session" />
+    <Component nodeId="FRbQ3ExVo" name="Story" />
+    <Component nodeId="iw4Z_5tYZ" name="Success Numbers" />
+    <Component nodeId="Xw0Yl2iid" name="Header Image with Green Overlay" />
+    <Component nodeId="rfL2Me9Wn" name="Vector-ARCMA" />
+    <Component nodeId="Zn8bREMxe" name="Case Study Slug" />
+  </Components>
+  <CodeComponents>
+    <CodeComponent codeFileId="xzAiypU" path="Animator_Basic_With_Scroll.tsx" />
+    <CodeComponent codeFileId="glkYQl7" path="ArchwayCarda.tsx" />
+    <CodeComponent codeFileId="OCvhJSd" path="CoherenceModel.tsx" />
+    <CodeComponent codeFileId="NywjAEa" path="ServicesFAQSchema.tsx" />
+    <CodeComponent codeFileId="eUet4Yb" path="ArcmaOrrery.tsx" />
+    <CodeComponent codeFileId="oBXdL_V" path="CaseStudiesLinkRouter_1.tsx" />
+    <CodeComponent codeFileId="o3k5QYG" path="CustomCursor.tsx" />
+  </CodeComponents>
+  <CodeOverrides>
+    <CodeOverride codeFileId="T3GHCKy" path="TextIndent.tsx" />
+    <CodeOverride codeFileId="oknlB17" path="Frame_height_change.tsx" />
+    <CodeOverride codeFileId="t0gTSjq" path="CurrentYear.tsx" />
+    <CodeOverride codeFileId="rXGKnlt" path="TEXToveride.tsx" />
+  </CodeOverrides>
+  <ColorStyles>
+    <ColorStyle
+        path="/Colors/White"
+        light="rgb(10, 10, 10)"
+        dark=""
+     />
+    <ColorStyle
+        path="/Colors/Grey"
+        light="rgb(196, 185, 154)"
+        dark=""
+     />
+    <ColorStyle
+        path="/Colors/Green"
+        light="rgb(123, 158, 135)"
+        dark=""
+     />
+    <ColorStyle
+        path="/Colors/White opacity 65%"
+        light="rgba(232, 224, 204, 0.33)"
+        dark=""
+     />
+    <ColorStyle
+        path="/Colors/Dark"
+        light="rgb(232, 224, 204)"
+        dark=""
+     />
+    <ColorStyle
+        path="/Colors/Subtle Grey"
+        light="rgb(26, 31, 29)"
+        dark=""
+     />
+    <ColorStyle
+        path="/Colors/Light Grey"
+        light="rgb(61, 61, 69)"
+        dark=""
+     />
+    <ColorStyle
+        path="/Colors/Terracotta"
+        light="rgb(184, 150, 12)"
+        dark=""
+     />
+    <ColorStyle
+        path="/Colors/Antique Brass"
+        light="rgb(242, 235, 217)"
+        dark=""
+     />
+    <ColorStyle
+        path="/Colors/Iridescent Mist"
+        light="rgba(120, 144, 138, 0.35)"
+        dark=""
+     />
+    <ColorStyle
+        path="/Colors/aqualine"
+        light="rgb(65, 92, 91)"
+        dark=""
+     />
+  </ColorStyles>
+  <TextStyles>
+    <TextStyle
+        path="/Text Styles/Heading 1"
+        font="CUSTOMV2;Kobe1.1 Regular"
+        fontSize="80px"
+        lineHeight="100%"
+        letterSpacing="-0.04em"
+        paragraphSpacing="0"
+        transform="uppercase"
+        alignment="left"
+        decoration="none"
+        balance="false"
+        tag="h1"
+     />
+    <TextStyle
+        path="/Text Styles/Heading 1 XL"
+        font="CUSTOMV2;Kobe1.1 Regular"
+        fontSize="152px"
+        lineHeight="84%"
+        letterSpacing="-0.05em"
+        paragraphSpacing="0"
+        transform="none"
+        alignment="left"
+        decoration="none"
+        balance="true"
+        tag="h1"
+     />
+    <TextStyle
+        path="/Text Styles/Heading 1b"
+        font="CUSTOMV2;Eros Regular"
+        fontSize="88px"
+        lineHeight="100%"
+        letterSpacing="-0.04em"
+        paragraphSpacing="0"
+        transform="uppercase"
+        alignment="left"
+        decoration="none"
+        balance="false"
+        tag="h1"
+     />
+    <TextStyle
+        path="/Text Styles/Heading 2"
+        font="CUSTOMV2;Kobe1.1 Regular"
+        fontSize="48px"
+        lineHeight="120%"
+        letterSpacing="-0.04em"
+        paragraphSpacing="64"
+        transform="none"
+        alignment="left"
+        decoration="none"
+        balance="false"
+        tag="h2"
+     />
+    <TextStyle
+        path="/Text Styles/Heading 2b"
+        font="CUSTOMV2;Eros Regular"
+        fontSize="95px"
+        lineHeight="100%"
+        letterSpacing="-0.04em"
+        paragraphSpacing="40"
+        transform="uppercase"
+        alignment="left"
+        decoration="none"
+        balance="false"
+        tag="h2"
+     />
+    <TextStyle
+        path="/Text Styles/Heading 3"
+        font="CUSTOMV2;Kobe1.1 Regular"
+        fontSize="38px"
+        lineHeight="100%"
+        letterSpacing="0px"
+        paragraphSpacing="56"
+        transform="none"
+        alignment="left"
+        decoration="none"
+        balance="true"
+        tag="h3"
+     />
+    <TextStyle
+        path="/Text Styles/Heading 4"
+        font="GF;EB Garamond-regular"
+        fontSize="34px"
+        lineHeight="140%"
+        letterSpacing="0px"
+        paragraphSpacing="56"
+        transform="none"
+        alignment="left"
+        decoration="none"
+        balance="false"
+        tag="h4"
+     />
+    <TextStyle
+        path="/Text Styles/Heading 5"
+        font="CUSTOMV2;Kobe1.1 Regular"
+        fontSize="28px"
+        lineHeight="140%"
+        letterSpacing="-0.03em"
+        paragraphSpacing="40"
+        transform="none"
+        alignment="left"
+        decoration="none"
+        balance="false"
+        tag="h5"
+     />
+    <TextStyle
+        path="/Text Styles/Heading 6"
+        font="CUSTOMV2;Kobe1.1 Regular"
+        fontSize="16px"
+        lineHeight="1.4em"
+        letterSpacing="-0.02em"
+        paragraphSpacing="40"
+        transform="none"
+        alignment="left"
+        decoration="none"
+        balance="false"
+        tag="h6"
+     />
+    <TextStyle
+        path="/Text Styles/Heading 6b"
+        font="CUSTOMV2;Eros Regular"
+        fontSize="44px"
+        lineHeight="100%"
+        letterSpacing="-0.04em"
+        paragraphSpacing="40"
+        transform="uppercase"
+        alignment="left"
+        decoration="none"
+        balance="false"
+        tag="h6"
+     />
+    <TextStyle
+        path="/Text Styles/Body"
+        font="GF;Cormorant Garamond-regular"
+        fontSize="16px"
+        lineHeight="175%"
+        letterSpacing="0px"
+        paragraphSpacing="16"
+        transform="none"
+        alignment="left"
+        decoration="none"
+        balance="false"
+        tag="p"
+     />
+    <TextStyle
+        path="/Text Styles/Body 2"
+        font="GF;EB Garamond-regular"
+        fontSize="14px"
+        lineHeight="140%"
+        letterSpacing="0.11em"
+        paragraphSpacing="20"
+        transform="uppercase"
+        alignment="left"
+        decoration="none"
+        balance="false"
+        tag="p"
+     />
+    <TextStyle
+        path="/Text Styles/Body S"
+        font="GF;Cormorant Garamond-regular"
+        fontSize="14px"
+        lineHeight="180%"
+        letterSpacing="0px"
+        paragraphSpacing="16"
+        transform="none"
+        alignment="left"
+        decoration="none"
+        balance="false"
+        tag="p"
+     />
+    <TextStyle
+        path="/Text Styles/Body Caps"
+        font="CUSTOMV2;Kobe1.1 Regular"
+        fontSize="16px"
+        lineHeight="140%"
+        letterSpacing="0.11em"
+        paragraphSpacing="24"
+        transform="uppercase"
+        alignment="left"
+        decoration="none"
+        balance="false"
+        tag="p"
+     />
+    <TextStyle
+        path="/Text Styles/Body L"
+        font="GF;Cormorant Garamond-regular"
+        fontSize="20px"
+        lineHeight="175%"
+        letterSpacing="0px"
+        paragraphSpacing="24"
+        transform="none"
+        alignment="left"
+        decoration="none"
+        balance="false"
+        tag="p"
+     />
+  </TextStyles>
+</Project>

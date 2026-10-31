@@ -1,0 +1,79 @@
+hero:
+  headline: |-
+    LEAD FROM
+    THE SOURCE
+  body: |-
+    ARCMA partners with visionary founders at moments when the ambition of the enterprise exceeds the structures currently supporting it.
+
+    Through strategic advisory and selective implementation, we align the vision, identity, product, and commercial direction so the organization can grow without losing the intelligence at its source.
+  cta:
+    label: spiral in
+    href: /contact
+recognition:
+  label: THE MOMENT OF RECOGNITION
+  body: |-
+    Sometimes the vision arrives faster than the architecture required to hold it.
+    Every new possibility opens another direction. The product is evolving while its identity is still forming. Decisions about brand, market, technology, and business model are being made simultaneously—each shaping the others.
+    There is tremendous intelligence in what is emerging. But the whole has not yet found its form.
+    And sometimes the architecture already exists, but the coherence has begun to fracture.
+    Decisions that should take one conversation now take four. The same words mean different things across the leadership team. Direction holds in the room and breaks in execution. The work is undeniable, but the market doesn't quite see what you see. You are doing more, and getting less.
+    Different moments. The same underlying question:
+    What does this system require to move as one?
+    This is where ARCMA's work begins.
+  cta:
+    label: About ARCMA
+    href: /about
+archways:
+- title: THE  DIAGNOSTIC
+  body: For the founder-led organization that has reached a structural moment. A three-to-four-week reading of where the system holds and where it has fractured. Delivers a named diagnosis, a detailed report leadership can hold and reference, sequenced recommendations, and a working session with the founder. The entry into the work.
+  href: /the-work
+  image: https://framerusercontent.com/images/3H91y85ssDkQtZuO22KNxkCPGE.png
+- title: THE  ENGAGEMENT
+  body: For organizations whose next phase requires the system to move as one. The deeper work. High-touch and system-level. Scope is shaped by what the diagnostic surfaces. Engagements move across leadership, structure, brand, and the way the organization meets the market. Wherever the work begins, the path leads to the same center.
+  href: /the-work
+  image: https://framerusercontent.com/images/noJtAykbYTtzxtavq3qnsst4c.png
+- title: AI  KNOWLEDGE  ARCHITECTURE
+  body: For expertise-heavy organizations preparing to deploy or scale AI. AI amplifies whatever signal is present. The work begins by reading the coherence of what an organization actually knows — then translating what is implicit into structures an AI system can hold and transmit without amplifying what should not be amplified.
+  href: /the-work
+  image: https://framerusercontent.com/images/ZzY597Fu0rd57O0LFXxO7xsUss.png
+- title: THE  COHERENCE  MODEL
+  body: Five concentric layers, one center. Source. Signal. System. Story. Transmission. The architecture beneath every engagement Arcma holds — the framework that organizes how the work moves.
+  href: /coherence-model
+  image: https://framerusercontent.com/images/2X6oDzIF5wfdMoq2q77sDyHYrA.png
+threshold:
+  label: Who this work is for.
+  title: The Threshold
+  body: Arcma works with leaders and organizations at moments of birth and rebirth. Birth — when a founder carries extraordinary vision but the organization has not yet been built to carry it. Rebirth — when growth or change has fragmented the alignment between leadership, culture, brand, and market, and the organization must return to its center to evolve. Both are threshold moments. Both require returning to the source.
+  href: /case-studies/:slug
+  images:
+  - https://framerusercontent.com/images/Yv6XhhrlIGe2GjEh3SCAxMZ5Fc.jpg?width=1080&height=1920
+  - https://framerusercontent.com/images/ehTsEHFiBkffT8YDEVhEbi06rc.jpg?width=1200&height=1800
+distinction:
+  headline: Most consultancies address fragments of leadership, culture, brand, or marketing. Arcma addresses the source condition from which all four emanate.
+  body: ARCMA does not apply external strategies. It begins at the center — clarifying the source and aligning the systems that carry it. The distinction is between organizations that import strategy and organizations that emanate it.
+felt_outcome:
+  quote: '"Everything is aligned."'
+  attribution: — The felt experience of coherence
+journal:
+  label: THE JOURNAL
+  headline: Deeper into the Arc
+  body: Case studies, deeper dives into the coherence model, and reflections on what happens when organizations return to their source.
+  cta:
+    label: Read the Journal
+    href: /journal
+  featured:
+  - title: When Marketing Is Separated from Source
+    subtitle: (and why technically correct marketing still fails)
+    href: /journal/:slug
+    image: https://framerusercontent.com/images/PgJhhonnRBWmt7qTxJchij9PRFM.jpg?width=680&height=680
+  - title: 'Organizational Coherence: Ontology of Performance'
+    subtitle: It's not a philosophy. It's an operational state — visible in how decisions move, how teams organize, and how the brand lands in the market.
+    href: /journal/:slug
+    image: https://framerusercontent.com/images/1JjH9NQN8Q6WF0gscUWpLaDxH4.jpg?width=1042&height=645
+  - title: ARCMA’s Six Laws of Organizational Coherence
+    subtitle: Every organization eventually discovers that growth does not merely increase scale.  It reveals structure.
+    href: /journal/:slug
+    image: https://framerusercontent.com/images/SeVrbSIZAJVZKOfzy9AOR79SnU.jpg?width=514&height=756
+doctrine:
+  headline: When the source is coherent, everything emanates in alignment.
+  body: Coherence doesn't improve your strategy. It emanates it. From one coherent point — every decision, every action, every result — emanates.

@@ -2,6 +2,10 @@
 
 Everything a visitor reads on arcma.co. Alyssa writes it; agents place it exactly as written.
 
+## Site-wide: `site.yaml`
+
+Facts used on many pages: the contact address and social profiles. Every email link and social icon on the site points here.
+
 ## Pages: `pages/<page>.yaml`
 
 One file per page. Top-level keys are the page's sections in the order they appear; nested keys are the slots inside each section.

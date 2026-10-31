@@ -1,5 +1,6 @@
 # Links each content key to the Framer layer or CMS field that renders it.
 # A slot with no field is the layer's own text; a field is a component property id.
+# site: layers bound to content/site.yaml values, wherever they appear.
 
 pages:
   home:
@@ -60,6 +61,20 @@ pages:
       journal.featured.2.image: {node: kWVVF8cpR, field: UxvZpJvWp, format: image}
       doctrine.headline: {node: FXH5FX9O2}
       doctrine.body: {node: AL4ACs94i}
+  case-studies:
+    page: QQ7iXJ3ER
+    path: /case-studies
+    content: content/pages/case-studies.yaml
+    slots:
+      header.title: {node: tvTnVafjP}
+      header.aside: {node: XLjRw7deN}
+      header.label: {node: Kr7CBFB5Z}
+      header.lead: {node: RD1WC39OD}
+      closing.headline: {node: RE1wuaOie}
+      closing.body: {node: a8c5pP8YH}
+      closing.cta.label: {node: VKIY2BFfR, field: tYSaFf25Y}
+      closing.cta.href: {node: VKIY2BFfR, field: mXtmyujuo}
+      closing.contact_note: {node: Yxi3PpPda}
 cms:
   stories:
     collection: Yg35KMxfO
@@ -67,3 +82,10 @@ cms:
     fields: {title: ZOkcZX5Jy, name: NSWAxfcNk, intro: JHMfaI0Ry, tags: tSuSlypWj, quote: p1zkIJ5WC, challenge: Vk6bSR87d, image_1: bV3_xiO3j, image_2: aiJmHzZdS, alignment: aVaZaQHBJ}
     body: {lead: EUGmQ5W5N, text-a: FaLTkKzKE, text-b: h1sQeOJXK}
     items: {cultural-architecture-operationalizing-integrity-under-compliance-pressure: KKUqUjNFQ, case-1-structural-coherence-multi-acquisition-integration: FVPWS_ucy, post-merge-operational-value-integration: Cfuafas3C, merger-integration-case-study: hmcWm5vEy, culture-architecture-operational-coherence: aTQWic7Jl}
+site:
+  email:
+  - {page: case-studies, node: Yxi3PpPda, field: link, format: mailto}
+  social.instagram:
+  - {page: case-studies, node: MIokxQUUK, field: jtwc1WdYP}
+  social.linkedin:
+  - {page: case-studies, node: AZIDIonxv, field: jtwc1WdYP}

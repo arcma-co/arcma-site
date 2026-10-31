@@ -1,0 +1,510 @@
+<Desktop
+    nodeId="dTValACyX"
+    position="absolute"
+    width="1200px"
+    height="fit-content"
+    top="0px"
+    left="0px"
+    backgroundColor="/Colors/White"
+    overflow="hidden"
+    layout="stack"
+    gap="160px"
+    padding="160px 20px 160px 20px"
+    stackDirection="vertical"
+    stackDistribution="start"
+    stackAlignment="center"
+>
+  <MainContainer
+      nodeId="XBVuc75jH"
+      width="1fr"
+      height="fit-content"
+      overflow="hidden"
+      layout="stack"
+      stackDirection="vertical"
+      stackDistribution="start"
+      stackAlignment="center"
+  >
+    <WavesContainer
+        nodeId="qePLKaWmU"
+        position="absolute"
+        height="100vh"
+        top="0px"
+        right="0px"
+        left="0px"
+        overflow="hidden"
+    >
+    </WavesContainer>
+    <Section
+        nodeId="Pqfr9NVw2"
+        width="1fr"
+        height="34vh"
+        backgroundColor="/Colors/Subtle Grey"
+        overflow="hidden"
+     />
+    <Header
+        nodeId="kIHhDl0O5"
+        width="1fr"
+        height="fit-content"
+        backgroundColor="/Colors/Subtle Grey"
+        overflow="visible"
+        layout="stack"
+        gap="64px"
+        padding="0px 0px 160px 0px"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+    >
+      <Sections
+          nodeId="xZ4wFkTc6"
+          width="100%"
+          height="fit-content"
+          maxWidth="1600px"
+          overflow="visible"
+          layout="stack"
+          gap="40px 0px"
+          padding="52px 56px 52px 56px"
+          stackDirection="horizontal"
+          stackDistribution="center"
+          stackAlignment="end"
+          stackWrap="true"
+      >
+        <Section
+            nodeId="i7lMZjmuw"
+            width="10fr"
+            height="fit-content"
+            minWidth="320px"
+            overflow="visible"
+            layout="stack"
+            gap="80px"
+            padding="0px 0px 0px 0px"
+            stackDirection="vertical"
+            stackDistribution="center"
+            stackAlignment="start"
+        >
+          <Headline
+              nodeId="i0kP96Rq4"
+              width="1fr"
+              height="fit-content"
+              layout="stack"
+              gap="56px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <ClientTransformations
+                nodeId="tvTnVafjP"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 1b"
+            >
+              client transformations
+            </ClientTransformations>
+          </Headline>
+        </Section>
+        <Section
+            nodeId="sq_0DKVjR"
+            width="2fr"
+            height="1fr"
+            minWidth="240px"
+            overflow="visible"
+            layout="stack"
+            gap="80px"
+            padding="0px 0px 0px 0px"
+            stackDirection="vertical"
+            stackDistribution="start"
+            stackAlignment="start"
+        >
+          <TextContainer
+              nodeId="GsL_v0Sqe"
+              width="1fr"
+              height="fit-content"
+              layout="stack"
+              gap="56px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <OrganizationsWhereCoherenceBecameOperational
+                nodeId="XLjRw7deN"
+                width="1fr"
+                height="fit-content"
+                maxWidth="240px"
+                inlineTextStyle="/Text Styles/Heading 5"
+            >
+              
+Organizations where coherence became operational.
+            </OrganizationsWhereCoherenceBecameOperational>
+          </TextContainer>
+        </Section>
+      </Sections>
+      <Sections
+          nodeId="AIGVAV4PA"
+          width="100%"
+          height="fit-content"
+          maxWidth="1600px"
+          overflow="visible"
+          layout="stack"
+          gap="24px 0px"
+          padding="0px 56px 0px 56px"
+          stackDirection="horizontal"
+          stackDistribution="center"
+          stackAlignment="end"
+          stackWrap="true"
+      >
+        <Section
+            nodeId="JQvMilOXe"
+            width="3fr"
+            height="1fr"
+            minWidth="240px"
+            overflow="hidden"
+            layout="stack"
+            gap="80px"
+            stackDirection="vertical"
+            stackDistribution="start"
+            stackAlignment="start"
+        >
+          <PageName
+              nodeId="tjBx6C4WU"
+              width="1fr"
+              height="fit-content"
+              layout="stack"
+              gap="56px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <Stories
+                nodeId="Kr7CBFB5Z"
+                width="fit-content"
+                height="fit-content"
+                maxWidth="640px"
+                inlineTextStyle="/Text Styles/Body Caps"
+            >
+              Stories
+            </Stories>
+          </PageName>
+        </Section>
+        <Section
+            nodeId="C0Q3oL5fd"
+            width="9fr"
+            height="fit-content"
+            minWidth="280px"
+            overflow="visible"
+            layout="stack"
+            gap="80px"
+            padding="0px 0px 0px 0px"
+            stackDirection="vertical"
+            stackDistribution="center"
+            stackAlignment="start"
+        >
+          <LeadText
+              nodeId="e_69psX9K"
+              width="1fr"
+              height="fit-content"
+              layout="stack"
+              gap="56px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="start"
+              stackAlignment="start"
+          >
+            <ArcmaSCoherenceWorkHasBeenTestedInsideLivingOrganizationsFro
+                nodeId="RD1WC39OD"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 5"
+            >
+              Arcma&apos;s coherence work has been tested inside living organizations — from high-growth renewables companies to emerging brands at threshold. These are the organizations where the model proved itself.
+            </ArcmaSCoherenceWorkHasBeenTestedInsideLivingOrganizationsFro>
+          </LeadText>
+        </Section>
+      </Sections>
+    </Header>
+    <Stories
+        nodeId="wGs3xUd_f"
+        width="1fr"
+        height="fit-content"
+        overflow="visible"
+        layout="stack"
+        gap="56px"
+        padding="0px 0px 0px 0px"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+    >
+      <Stories
+          nodeId="G6yzVUKdY"
+          width="1fr"
+          height="fit-content"
+          maxWidth="1600px"
+          link="/case-studies"
+          linkOpenInNewTab="false"
+          overflow="visible"
+          layout="stack"
+          stackDirection="vertical"
+          stackDistribution="center"
+          stackAlignment="start"
+      >
+        <CaseStudySlug
+            nodeId="HPCjU7v0M"
+            width="1fr"
+            height="fit-content"
+            componentId="Zn8bREMxe"
+            T4H2n7C1H="{"src":"https://framerusercontent.com/images/dgrptclWoZmODdMHYRtTpb28qY.png?width=500&height=250","type":"image","value":"data:framer/asset-reference,dgrptclWoZmODdMHYRtTpb28qY.png?originalFilename=2022+organic+collection+%284+x+6+in%29+%28500+x+250+px%29-2.png&width=500&height=250","pixelWidth":500,"pixelHeight":250}"
+            DIijyX8cY="{"src":"https://framerusercontent.com/images/gUcmre5bVZFASm4LUAazm9OZHY.png?width=500&height=250","type":"image","value":"data:framer/asset-reference,gUcmre5bVZFASm4LUAazm9OZHY.png?originalFilename=2022+organic+collection+%284+x+6+in%29+%28500+x+250+px%29-3.png&width=500&height=250","pixelWidth":500,"pixelHeight":250}"
+            Yk0RVeOwu="Cultural Architecture: Operationalizing Integrity Under Compliance Pressure "
+            nPkCTJ_Sd="How a post-M&A organization moved from inherited culture drag to values-led management, hiring discipline, and compliance resilience"
+            ee3YyEzi1="Culture, Compliance, Management, Systems, Hiring, Performance, Accountability"
+            dS8Ab2xFw="/case-studies/:slug"
+         />
+        <LoadMore
+            nodeId="PB8vw0eIO"
+            width="fit-content"
+            height="fit-content"
+            variant="fRQluzpqn"
+         />
+      </Stories>
+    </Stories>
+    <ReadyToFindYour path
+        nodeId="k6PNs_Fke"
+        width="1fr"
+        height="fit-content"
+        backgroundColor="/Colors/Subtle Grey"
+        overflow="hidden"
+        layout="stack"
+        gap="120px"
+        padding="160px 0px 160px 0px"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+    >
+      <Sections
+          nodeId="xVHEZXbTD"
+          width="100%"
+          height="fit-content"
+          maxWidth="1600px"
+          zIndex="1"
+          overflow="hidden"
+          layout="stack"
+          padding="0px 56px 0px 56px"
+          stackDirection="horizontal"
+          stackDistribution="center"
+          stackAlignment="start"
+      >
+        <Section
+            nodeId="MwtrbB1Qm"
+            width="6fr"
+            height="fit-content"
+            overflow="hidden"
+            layout="stack"
+            gap="64px"
+            padding="0px 8px 0px 8px"
+            stackDirection="vertical"
+            stackDistribution="start"
+            stackAlignment="start"
+        >
+          <TextContainer
+              nodeId="uhE9_oK4I"
+              width="1fr"
+              height="fit-content"
+              overflow="hidden"
+              layout="stack"
+              gap="24px"
+              stackDirection="vertical"
+              stackDistribution="center"
+              stackAlignment="start"
+          >
+            <BeginTheConversation
+                nodeId="RE1wuaOie"
+                width="1fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 1"
+            >
+              Begin the conversation
+            </BeginTheConversation>
+            <IfThisStoryResonatesWithYouMaybeItSTimeToStartYourOwnTherapy
+                nodeId="a8c5pP8YH"
+                width="1fr"
+                height="fit-content"
+                maxWidth="640px"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              If this story resonates with you, maybe it’s time to start your own. Therapy isn’t about quick fixes — it’s about meaningful change, one clear step at a time. 
+            </IfThisStoryResonatesWithYouMaybeItSTimeToStartYourOwnTherapy>
+          </TextContainer>
+          <Button
+              nodeId="VKIY2BFfR"
+              width="fit-content"
+              height="fit-content"
+              componentId="eDfCBUtV4"
+              variant="u8HuHyxeS"
+              tYSaFf25Y="Start your journey"
+              YfWZu3XMt="rgb(123, 158, 135)"
+              e6YXpJlcZ="rgb(232, 224, 204)"
+              OrVY6CgcP="rgb(232, 224, 204)"
+              mXtmyujuo="/contact"
+           />
+        </Section>
+        <Section
+            nodeId="hx97JVh2i"
+            width="2fr"
+            height="1fr"
+            overflow="hidden"
+            padding="0px 0px 0px 0px"
+         />
+        <Section
+            nodeId="xITkWcXpA"
+            width="4fr"
+            height="1fr"
+            zIndex="1"
+            overflow="hidden"
+            layout="stack"
+            gap="80px"
+            stackDirection="vertical"
+            stackDistribution="space-between"
+            stackAlignment="start"
+        >
+          <Links
+              nodeId="tuQsVkqTY"
+              width="1fr"
+              height="fit-content"
+              borderRadius="0px 0px 0px 0px"
+              overflow="visible"
+              layout="stack"
+              gap="32px"
+              padding="0px 8px 0px 8px"
+              stackDirection="vertical"
+              stackDistribution="center"
+              stackAlignment="start"
+          >
+            <PreferToChatFirstSendUsAnEmailOrConnectWithUsOnSocialWeReAlw
+                nodeId="Yxi3PpPda"
+                width="1fr"
+                height="fit-content"
+                maxWidth="480px"
+                link="mailto:hello@world.com"
+                linkOpenInNewTab="true"
+                inlineTextStyle="/Text Styles/Body S"
+            >
+              Prefer to chat first? Send us an email or connect with us on social — we’re always happy to help.
+            </PreferToChatFirstSendUsAnEmailOrConnectWithUsOnSocialWeReAlw>
+            <SocialLinks
+                nodeId="zdhyZSbgQ"
+                width="1fr"
+                height="fit-content"
+                overflow="visible"
+                layout="stack"
+                gap="32px"
+                stackDirection="horizontal"
+                stackDistribution="start"
+                stackAlignment="center"
+            >
+              <ButtonSocial
+                  nodeId="MIokxQUUK"
+                  width="fit-content"
+                  height="fit-content"
+                  componentId="PNyRsgvYz"
+                  variant="UPDUalpHz"
+                  RDsApu2H9="InstagramLogo"
+                  jtwc1WdYP="https://www.instagram.com/arcma.co"
+                  m3GPNe8b9="rgb(123, 158, 135)"
+               />
+              <ButtonSocial
+                  nodeId="AZIDIonxv"
+                  width="fit-content"
+                  height="fit-content"
+                  componentId="PNyRsgvYz"
+                  variant="UPDUalpHz"
+                  RDsApu2H9="LinkedinLogo"
+                  jtwc1WdYP="https://www.linkedin.com/company/arcmaco/"
+                  m3GPNe8b9="rgb(123, 158, 135)"
+               />
+              <ButtonSocial
+                  nodeId="Hz4jUfelW"
+                  width="fit-content"
+                  height="fit-content"
+                  componentId="PNyRsgvYz"
+                  variant="UPDUalpHz"
+                  RDsApu2H9="YoutubeLogo"
+                  jtwc1WdYP="youtube.com"
+                  m3GPNe8b9="rgb(123, 158, 135)"
+               />
+            </SocialLinks>
+          </Links>
+        </Section>
+      </Sections>
+    </ReadyToFindYour path>
+    <FooterMenu
+        nodeId="wLAHi90fu"
+        locked="true"
+        position="absolute"
+        width="8px"
+        height="8px"
+        bottom="40px"
+        left="0px"
+        zIndex="1"
+        overflow="hidden"
+     />
+  </MainContainer>
+  <Lenis
+      nodeId="yr4Ae_35u"
+      width="fit-content"
+      height="fit-content"
+      smooth="true"
+      intensity="20"
+      infinite="false"
+      orientation="vertical"
+   />
+  <Navbar
+      nodeId="YhUjnjrXf"
+      position="fixed"
+      width="100%"
+      height="fit-content"
+      top="0px"
+      centerX="50%"
+      componentId="JTE_ljjiM"
+      variant="IQJ5C1pEN"
+      kNcB50xza="El4aBpM3m"
+   />
+  <CustomCursor
+      nodeId="J0ZAFT_qt"
+      width="1px"
+      height="1px"
+      componentId="o3k5QYG"
+   />
+</Desktop>
+<Tablet
+    nodeId="aW1FKMJUh"
+    position="absolute"
+    width="810px"
+    height="fit-content"
+    top="0px"
+    left="1300px"
+    backgroundColor="/Colors/White"
+    overflow="hidden"
+    layout="stack"
+    gap="160px"
+    padding="160px 20px 160px 20px"
+    stackDirection="vertical"
+    stackDistribution="start"
+    stackAlignment="center"
+ />
+<Phone
+    nodeId="EGWlLbd59"
+    position="absolute"
+    width="390px"
+    height="fit-content"
+    top="0px"
+    left="2210px"
+    backgroundColor="/Colors/White"
+    overflow="hidden"
+    layout="stack"
+    gap="160px"
+    padding="160px 20px 160px 20px"
+    stackDirection="vertical"
+    stackDistribution="start"
+    stackAlignment="center"
+ />

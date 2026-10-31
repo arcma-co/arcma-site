@@ -29,7 +29,7 @@ Create a directory only when it has real content. No placeholder files.
 
 ## Framer sync protocol
 
-Framer is reached through the Framer MCP plugin ("Tommy's MCP"), which must be open in the ARCMA project in the Framer editor. The plugin can only read a page's or component's text after it has been opened in the editor that session; unopened pages come back flattened with empty text. Ask Alyssa to click through the pages you need before reading them.
+Framer is reached through the Framer MCP plugin ("Tommy's MCP"), which must be open in the ARCMA project in the Framer editor. The plugin can only read a page's or component's text after it has been opened in the editor that session; unopened pages come back flattened with empty text. Ask Alyssa to click through the pages you need before reading them. Hidden layers are left out of reads entirely; `zoomIntoView` confirms one still exists.
 
 `framer/slots.yaml` maps every content key to its Framer layer (`node`) and, for component properties, the property id (`field`). CMS collections map frontmatter keys to field ids the same way.
 

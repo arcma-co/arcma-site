@@ -385,7 +385,7 @@ Organizations where coherence became operational.
                 width="1fr"
                 height="fit-content"
                 maxWidth="480px"
-                link="mailto:hello@world.com"
+                link="mailto:hello@arcma.co"
                 linkOpenInNewTab="true"
                 inlineTextStyle="/Text Styles/Body S"
             >
@@ -424,6 +424,7 @@ Organizations where coherence became operational.
                />
               <ButtonSocial
                   nodeId="Hz4jUfelW"
+                  visible="false"
                   width="fit-content"
                   height="fit-content"
                   componentId="PNyRsgvYz"

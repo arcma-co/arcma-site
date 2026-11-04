@@ -33,6 +33,7 @@
       stackDirection="vertical"
       stackDistribution="start"
       stackAlignment="center"
+      gridFillHeight="false"
   >
     <PageIntro
         nodeId="Y3S1pB1ZB"
@@ -142,7 +143,7 @@
           >
             <Section
                 nodeId="HMZc46FaN"
-                width="7fr"
+                width="8fr"
                 height="fit-content"
                 overflow="visible"
                 layout="stack"
@@ -177,7 +178,7 @@ THE SOURCE
             </Section>
             <Section
                 nodeId="PxU72AbFG"
-                width="1fr"
+                width="0.5fr"
                 height="1fr"
                 overflow="hidden"
                 padding="0px 0px 0px 0px"
@@ -206,16 +207,15 @@ THE SOURCE
                   stackDistribution="center"
                   stackAlignment="start"
               >
-                <ArcmaPartnersWithVisionaryFoundersAtMomentsWhenTheAmbitionOf
+                <ArcmaPartnersWithVisionaryFoundersAndOrganizationsAtMomentsW
                     nodeId="aHdGg0pBH"
                     width="1fr"
                     height="fit-content"
                     inlineTextStyle="/Text Styles/Heading 5"
                 >
-                  ARCMA partners with visionary founders at moments when the ambition of the enterprise exceeds the structures currently supporting it.
-
-Through strategic advisory and selective implementation, we align the vision, identity, product, and commercial direction so the organization can grow without losing the intelligence at its source.
-                </ArcmaPartnersWithVisionaryFoundersAtMomentsWhenTheAmbitionOf>
+                  ARCMA partners with visionary founders and organizations at moments when the ambition of the enterprise exceeds the structures currently supporting it.
+Through strategic advisory and selective implementation, we align vision, identity, product, and commercial direction so the organization can grow without losing the intelligence at its source.
+                </ArcmaPartnersWithVisionaryFoundersAndOrganizationsAtMomentsW>
                 <Button
                     nodeId="qW4ABOiUK"
                     width="fit-content"
@@ -375,15 +375,12 @@ Through strategic advisory and selective implementation, we align the vision, id
               width="1fr"
               height="fit-content"
               maxWidth="1200px"
-              text="Sometimes the vision arrives faster than the architecture required to hold it.
-Every new possibility opens another direction. The product is evolving while its identity is still forming. Decisions about brand, market, technology, and business model are being made simultaneously—each shaping the others.
-There is tremendous intelligence in what is emerging. But the whole has not yet found its form.
-And sometimes the architecture already exists, but the coherence has begun to fracture.
-Decisions that should take one conversation now take four. The same words mean different things across the leadership team. Direction holds in the room and breaks in execution. The work is undeniable, but the market doesn't quite see what you see. You are doing more, and getting less.
+              text="There is a moment when the vision arrives faster than the architecture required to hold it.
+Every new possibility opens another direction. The product is evolving while its identity is still forming.
+And a moment when the architecture already exists, but the coherence has begun to fracture.
+Decisions that should take one conversation now take four. Direction holds in the room and breaks in execution. You are doing more, and getting less.
 Different moments. The same underlying question:
-What does this system require to move as one?               
-This is where ARCMA's work begins.
-"
+What does this system require to move as one?"
               htmlTag="h4"
               type="word"
               font="{"fontWeight":400,"fontStyle":"normal","fontFamily":"\"Kobe1.1 Regular\", \"Kobe1.1 Regular Placeholder\", sans-serif","fontSize":"44px","lineHeight":"120%","textAlign":"center","letterSpacing":"-0.03em","fontFeatureSettings":"'ss02' on"}"
@@ -410,12 +407,12 @@ This is where ARCMA's work begins.
         nodeId="vo4cVlsNN"
         width="1fr"
         height="fit-content"
-        backgroundColor="rgba(0,0,0,0)"
+        backgroundColor="/Colors/Subtle Grey"
         zIndex="1"
         overflow="hidden"
         layout="stack"
         gap="120px"
-        padding="80px 0px 80px 0px"
+        padding="120px 0px 120px 0px"
         stackDirection="vertical"
         stackDistribution="center"
         stackAlignment="center"
@@ -434,73 +431,249 @@ This is where ARCMA's work begins.
           stackDistribution="center"
           stackAlignment="center"
       >
-        <Grid
-            nodeId="B0Qv0Qlew"
+        <Stack
+            nodeId="NBc3tzhRs"
             width="1fr"
             height="fit-content"
-            borderRadius="0px 0px 0px 0px"
-            overflow="hidden"
-            layout="grid"
-            gap="16px"
+            backgroundColor="rgba(0,0,0,0)"
+            layout="stack"
             padding="0px 8px 0px 8px"
-            gridColumns="2"
-            gridRows="2"
-            gridAlignment="center"
-            gridColumnWidthType="minmax"
-            gridColumnWidth="200"
-            gridColumnMinWidth="50"
-            gridRowHeightType="fixed"
-            gridRowHeight="720"
+            stackDirection="vertical"
+            stackDistribution="start"
+            stackAlignment="start"
         >
-          <ServiceCard
-              nodeId="x7kPn_ix4"
+          <Stack
+              nodeId="jZ0kpJR1p"
               width="1fr"
-              height="720px"
-              componentId="LGvAWBCZM"
-              variant="VOyURVOE3"
-              qnwE2mFVn="<h6 dir="auto">THE  DIAGNOSTIC</h6>"
-              bDvWDMS7e="For the founder-led organization that has reached a structural moment. A three-to-four-week reading of where the system holds and where it has fractured. Delivers a named diagnosis, a detailed report leadership can hold and reference, sequenced recommendations, and a working session with the founder. The entry into the work."
-              LSIkzmq9B="200"
-              BvQdXLu3_="/the-work"
-              srQJJTXxA="https://framerusercontent.com/images/3H91y85ssDkQtZuO22KNxkCPGE.png"
-           />
-          <ServiceCard
-              nodeId="b8Wyt2a9l"
+              height="fit-content"
+              backgroundColor="rgba(0,0,0,0)"
+              layout="stack"
+              gap="10px"
+              padding="0px 0px 32px 0px"
+              stackDirection="horizontal"
+              stackDistribution="space-between"
+              stackAlignment="center"
+          >
+            <WaysIntoTheWork
+                nodeId="UydpjFhYN"
+                width="fit-content"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body Caps"
+            >
+              Ways into the work
+            </WaysIntoTheWork>
+            <NotSureWhichStartWithAConversation
+                nodeId="UXxqW7kOj"
+                width="fit-content"
+                height="fit-content"
+                link="/contact"
+                linkOpenInNewTab="false"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              Not sure which? Start with a conversation.
+            </NotSureWhichStartWithAConversation>
+          </Stack>
+          <Stack
+              nodeId="lljS582YE"
               width="1fr"
-              height="720px"
-              componentId="LGvAWBCZM"
-              variant="VOyURVOE3"
-              qnwE2mFVn="<h6 dir="auto">THE  ENGAGEMENT</h6>"
-              bDvWDMS7e="For organizations whose next phase requires the system to move as one. The deeper work. High-touch and system-level. Scope is shaped by what the diagnostic surfaces. Engagements move across leadership, structure, brand, and the way the organization meets the market. Wherever the work begins, the path leads to the same center."
-              LSIkzmq9B="200"
-              BvQdXLu3_="/the-work"
-              srQJJTXxA="https://framerusercontent.com/images/noJtAykbYTtzxtavq3qnsst4c.png"
-           />
-          <ServiceCard
-              nodeId="FT8oy9bgz"
+              height="fit-content"
+              link="/the-work"
+              linkOpenInNewTab="false"
+              backgroundColor="rgba(0,0,0,0)"
+              borderWidth="1px 0px 0px 0px"
+              borderStyle="solid"
+              borderColor="/Colors/Grey"
+              layout="stack"
+              gap="40px"
+              padding="40px 0px 40px 0px"
+              stackDirection="horizontal"
+              stackDistribution="start"
+              stackAlignment="center"
+          >
+            <01
+                nodeId="nvQCpgbFp"
+                width="56px"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body Caps"
+            >
+              01
+            </01>
+            <FormationAdvisory
+                nodeId="VuXVC442B"
+                width="5fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 6b"
+            >
+              Formation Advisory
+            </FormationAdvisory>
+            <ForFoundersGivingAnEmergingEnterpriseItsFormAStrategicCounte
+                nodeId="hGn8j41jO"
+                width="6fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              For founders giving an emerging enterprise its form. A strategic counterpart while vision, product, identity, and commercial direction are developing together.
+            </ForFoundersGivingAnEmergingEnterpriseItsFormAStrategicCounte>
+            <Node
+                nodeId="a0Ak9CtOS"
+                width="fit-content"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body L"
+            >
+              →
+            </Node>
+          </Stack>
+          <Stack
+              nodeId="qjpKLrLlW"
               width="1fr"
-              height="720px"
-              componentId="LGvAWBCZM"
-              variant="VOyURVOE3"
-              qnwE2mFVn="<h6 dir="auto">AI  KNOWLEDGE  ARCHITECTURE</h6>"
-              bDvWDMS7e="For expertise-heavy organizations preparing to deploy or scale AI. AI amplifies whatever signal is present. The work begins by reading the coherence of what an organization actually knows — then translating what is implicit into structures an AI system can hold and transmit without amplifying what should not be amplified."
-              LSIkzmq9B="200"
-              BvQdXLu3_="/the-work"
-              srQJJTXxA="https://framerusercontent.com/images/ZzY597Fu0rd57O0LFXxO7xsUss.png"
-           />
-          <ServiceCard
-              nodeId="e5p4wkCQY"
+              height="fit-content"
+              link="/the-work"
+              linkOpenInNewTab="false"
+              backgroundColor="rgba(0,0,0,0)"
+              borderWidth="1px 0px 0px 0px"
+              borderStyle="solid"
+              borderColor="/Colors/Grey"
+              layout="stack"
+              gap="40px"
+              padding="40px 0px 40px 0px"
+              stackDirection="horizontal"
+              stackDistribution="start"
+              stackAlignment="center"
+          >
+            <02
+                nodeId="vGbwtAOLq"
+                width="56px"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body Caps"
+            >
+              02
+            </02>
+            <TheDiagnostic
+                nodeId="cpevxZ_UF"
+                width="5fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 6b"
+            >
+              The Diagnostic
+            </TheDiagnostic>
+            <ForFounderLedOrganizationsNavigatingStructuralFrictionOrCons
+                nodeId="LkJ8kMEAq"
+                width="6fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              For founder-led organizations navigating structural friction or consequential change. A three-to-four-week reading of where the system holds, where alignment has fractured, and what the next phase requires.
+            </ForFounderLedOrganizationsNavigatingStructuralFrictionOrCons>
+            <Node
+                nodeId="pwCWOlNaQ"
+                width="fit-content"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body L"
+            >
+              →
+            </Node>
+          </Stack>
+          <Stack
+              nodeId="ZJKPn09Od"
               width="1fr"
-              height="720px"
-              componentId="LGvAWBCZM"
-              variant="VOyURVOE3"
-              qnwE2mFVn="<h6 dir="auto">THE  COHERENCE  MODEL</h6>"
-              bDvWDMS7e="Five concentric layers, one center. Source. Signal. System. Story. Transmission. The architecture beneath every engagement Arcma holds — the framework that organizes how the work moves."
-              LSIkzmq9B="200"
-              BvQdXLu3_="/coherence-model"
-              srQJJTXxA="https://framerusercontent.com/images/2X6oDzIF5wfdMoq2q77sDyHYrA.png"
-           />
-        </Grid>
+              height="fit-content"
+              link="/the-work"
+              linkOpenInNewTab="false"
+              backgroundColor="rgba(0,0,0,0)"
+              borderWidth="1px 0px 0px 0px"
+              borderStyle="solid"
+              borderColor="/Colors/Grey"
+              layout="stack"
+              gap="40px"
+              padding="40px 0px 40px 0px"
+              stackDirection="horizontal"
+              stackDistribution="start"
+              stackAlignment="center"
+          >
+            <03
+                nodeId="fq16yRdC7"
+                width="56px"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body Caps"
+            >
+              03
+            </03>
+            <TheEngagement
+                nodeId="Buhp1z0BV"
+                width="5fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 6b"
+            >
+              The Engagement
+            </TheEngagement>
+            <ForOrganizationsWhoseNextPhaseRequiresTheSystemToMoveAsOneCo
+                nodeId="amqFG49Yb"
+                width="6fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              For organizations whose next phase requires the system to move as one. Continuing partnership across leadership, structure, product, brand, and the way the organization meets the market.
+            </ForOrganizationsWhoseNextPhaseRequiresTheSystemToMoveAsOneCo>
+            <Node
+                nodeId="nQt2Gtfcv"
+                width="fit-content"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body L"
+            >
+              →
+            </Node>
+          </Stack>
+          <Stack
+              nodeId="MzCQg5MNT"
+              width="1fr"
+              height="fit-content"
+              link="/the-work"
+              linkOpenInNewTab="false"
+              backgroundColor="rgba(0,0,0,0)"
+              borderWidth="1px 0px 1px 0px"
+              borderStyle="solid"
+              borderColor="/Colors/Grey"
+              layout="stack"
+              gap="40px"
+              padding="40px 0px 40px 0px"
+              stackDirection="horizontal"
+              stackDistribution="start"
+              stackAlignment="center"
+          >
+            <04
+                nodeId="SNp5DtbGT"
+                width="56px"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body Caps"
+            >
+              04
+            </04>
+            <AiKnowledgeArchitecture
+                nodeId="VYQv4gsKC"
+                width="5fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Heading 6b"
+            >
+              AI Knowledge Architecture
+            </AiKnowledgeArchitecture>
+            <ForExpertiseHeavyOrganizationsPreparingToDeployOrScaleAiTheW
+                nodeId="iH9XXzd0R"
+                width="6fr"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body"
+            >
+              For expertise-heavy organizations preparing to deploy or scale AI. The work begins by reading the coherence of what an organization actually knows, before any system is built.
+            </ForExpertiseHeavyOrganizationsPreparingToDeployOrScaleAiTheW>
+            <Node
+                nodeId="fqxSPMzKt"
+                width="fit-content"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body L"
+            >
+              →
+            </Node>
+          </Stack>
+        </Stack>
       </Stack>
     </Stack>
     <StoryA
@@ -524,7 +697,7 @@ This is where ARCMA's work begins.
           left="0px"
           overflow="hidden"
        />
-      <Stories
+      <CaseStudies
           nodeId="r_SdLaDBD"
           width="1fr"
           height="fit-content"
@@ -533,8 +706,9 @@ This is where ARCMA's work begins.
           stackDirection="vertical"
           stackDistribution="center"
           stackAlignment="start"
+          gridFillHeight="false"
       >
-        <Story
+        <CaseStudy
             nodeId="I5iGvZswy"
             width="1fr"
             height="fit-content"
@@ -553,16 +727,16 @@ This is where ARCMA's work begins.
               height="fit-content"
               componentId="FRbQ3ExVo"
               variant="Wbc6VdHfX"
-              f6y4FWnC9="/case-studies"
-              v0cU_wkM8="The Threshold"
-              uI8PKA55I="Arcma works with leaders and organizations at moments of birth and rebirth. Birth — when a founder carries extraordinary vision but the organization has not yet been built to carry it. Rebirth — when growth or change has fragmented the alignment between leadership, culture, brand, and market, and the organization must return to its center to evolve. Both are threshold moments. Both require returning to the source."
-              rW9z0rI61="{"src":"https://framerusercontent.com/images/Yv6XhhrlIGe2GjEh3SCAxMZ5Fc.jpg?width=1080&height=1920","type":"image","value":"data:framer/asset-reference,Yv6XhhrlIGe2GjEh3SCAxMZ5Fc.jpg?originalFilename=5fe29ba4fd858acbb1a7732b701a413d.jpg&width=1080&height=1920","pixelWidth":1080,"pixelHeight":1920}"
-              ABxz05PMR="{"src":"https://framerusercontent.com/images/ehTsEHFiBkffT8YDEVhEbi06rc.jpg?width=1200&height=1800","type":"image","value":"data:framer/asset-reference,ehTsEHFiBkffT8YDEVhEbi06rc.jpg?originalFilename=6ab837ed6b098529c24295a0016d5848.jpg&width=1200&height=1800","pixelWidth":1200,"pixelHeight":1800}"
-              eeudRFT13="Who this work is for."
+              f6y4FWnC9="/case-studies/:slug"
+              v0cU_wkM8="When values become management practice"
+              uI8PKA55I="Following the acquisition integration, the next task was to make shared values reliable in daily management. The work connected expectations, feedback, hiring, and accountability through practical tools supervisors could use."
+              rW9z0rI61="{"src":"https://framerusercontent.com/images/zBYjeg6LS6YjUVT0JBECOS0Ks.jpg?width=736&height=1308","type":"image","value":"data:framer/asset-reference,zBYjeg6LS6YjUVT0JBECOS0Ks.jpg?originalFilename=2fde57c537c94d5a46413ef0f3c216ea.jpg&width=736&height=1308","alt":"Figure standing in a sculptural archway","pixelWidth":736,"pixelHeight":1308}"
+              ABxz05PMR="{"src":"https://framerusercontent.com/images/2mhTwy7vWmrSKKXvEgYbXfXLqfc.jpg?width=736&height=736","type":"image","value":"data:framer/asset-reference,2mhTwy7vWmrSKKXvEgYbXfXLqfc.jpg?originalFilename=6f1df85d3441838eb08f68c35c710ff6.jpg&width=736&height=736","alt":"Three archways opening onto a landscape","pixelWidth":736,"pixelHeight":736}"
+              eeudRFT13="Architecture in practice"
               YKjsHYVFz="true"
            />
-        </Story>
-      </Stories>
+        </CaseStudy>
+      </CaseStudies>
     </StoryA>
     <TextSection
         nodeId="KYn0qDs51"
@@ -671,6 +845,7 @@ This is where ARCMA's work begins.
         height="fit-content"
         minHeight="120vh"
         backgroundColor="/Colors/White"
+        borderRadius="0px"
         overflow="hidden"
         layout="stack"
         gap="80px"
@@ -678,6 +853,7 @@ This is where ARCMA's work begins.
         stackDirection="vertical"
         stackDistribution="end"
         stackAlignment="center"
+        gridFillWidth="false"
     >
       <BigQuote
           nodeId="yRhrNBOyx"
@@ -800,27 +976,32 @@ This is where ARCMA's work begins.
         width="1fr"
         height="fit-content"
         backgroundColor="/Colors/Antique Brass"
-        overflow="hidden"
+        overflow="visible"
         layout="stack"
         padding="0px 0px 0px 0px"
         stackDirection="vertical"
         stackDistribution="center"
         stackAlignment="center"
+        gridFillWidth="false"
     >
       <Header
           nodeId="irOFOGkz4"
+          position="sticky"
           width="100%"
           height="fit-content"
+          top="80px"
           maxWidth="1600px"
           linkOpenInNewTab="false"
           backgroundColor="/Colors/Green"
-          zIndex="1"
+          borderRadius="0px"
+          zIndex="0"
           overflow="hidden"
           layout="stack"
           padding="0px 56px 0px 56px"
           stackDirection="horizontal"
           stackDistribution="center"
           stackAlignment="start"
+          gridFillWidth="false"
       >
         <TextContainer
             nodeId="Kv38eESeC"
@@ -912,8 +1093,9 @@ This is where ARCMA's work begins.
           maxWidth="1600px"
           linkOpenInNewTab="false"
           backgroundColor="/Colors/Antique Brass"
+          borderRadius="56px 56px 0px 0px"
           zIndex="1"
-          overflow="visible"
+          overflow="clip"
           layout="stack"
           gap="120px"
           padding="132px 64px 132px 64px"
@@ -1127,26 +1309,293 @@ This is where ARCMA's work begins.
         </Section>
       </Sections>
     </TextSection>
-    <BookASession
-        nodeId="pqIjlvlRo"
+    <FooterReveal
+        nodeId="z1JGEjDFX"
         width="1fr"
         height="fit-content"
-        backgroundColor="/Colors/Antique Brass"
-        overflow="clip"
+        backgroundColor="/Colors/Green"
+        overflow="visible"
         layout="stack"
-        padding="160px 0px 160px 0px"
         stackDirection="vertical"
-        stackDistribution="center"
+        stackDistribution="start"
         stackAlignment="center"
+        gridFillWidth="false"
+        gridFillHeight="false"
     >
-      <BookASession
-          nodeId="NNUqhOz15"
+      <ForegroundScrollsAway
+          nodeId="j4t9RgwGy"
           width="1fr"
           height="fit-content"
-          componentId="G2XDwTXUy"
-          variant="Gtify0_iS"
-       />
-    </BookASession>
+          minHeight="45vh"
+          backgroundColor="/Colors/Antique Brass"
+          borderRadius="0px 0px 56px 56px"
+          zIndex="2"
+          overflow="clip"
+          layout="stack"
+          padding="96px 64px 96px 64px"
+          stackDirection="vertical"
+          stackDistribution="center"
+          stackAlignment="center"
+          gridFillWidth="false"
+          gridFillHeight="false"
+      >
+        <Invitation
+            nodeId="gy6QmyVd8"
+            width="1fr"
+            height="fit-content"
+            maxWidth="1080px"
+            overflow="visible"
+            layout="stack"
+            gap="24px"
+            stackDirection="vertical"
+            stackDistribution="start"
+            stackAlignment="start"
+            gridFillWidth="false"
+            gridFillHeight="false"
+        >
+          <SomethingBroughtYouHere
+              nodeId="SDMObIxmo"
+              width="1fr"
+              height="fit-content"
+              font="CUSTOMV2;Eros Regular"
+              gridFillWidth="false"
+              gridFillHeight="false"
+          >
+            Something brought you here.
+          </SomethingBroughtYouHere>
+          <TheWorkBeginning
+              nodeId="Llbj4QGe2"
+              width="1fr"
+              height="fit-content"
+              inlineTextStyle="/Text Styles/Body L"
+              gridFillWidth="false"
+              gridFillHeight="false"
+          >
+            That’s already the work beginning.
+          </TheWorkBeginning>
+        </Invitation>
+      </ForegroundScrollsAway>
+      <FooterEnterTheWork
+          nodeId="FfLDbQNNI"
+          position="sticky"
+          width="100%"
+          height="fit-content"
+          bottom="0px"
+          backgroundImage="https://framerusercontent.com/images/qnXgAnyetcXI7vkfszPLTnerke8.png"
+          zIndex="1"
+          overflow="visible"
+          layout="stack"
+          padding="64px"
+          stackDirection="vertical"
+          stackDistribution="center"
+          stackAlignment="center"
+          gridFillWidth="false"
+          gridFillHeight="false"
+      >
+        <EnterTheWork
+            nodeId="vLl9Qjyuf"
+            width="100%"
+            height="fit-content"
+            maxWidth="1080px"
+            overflow="visible"
+            layout="stack"
+            gap="32px"
+            stackDirection="vertical"
+            stackDistribution="start"
+            stackAlignment="start"
+            gridFillWidth="false"
+            gridFillHeight="false"
+        >
+          <ArcmaOriginalMark
+              nodeId="W7lcqXJLD"
+              width="70px"
+              height="100px"
+              backgroundImage="https://framerusercontent.com/images/jEmtNuDYQzXxDmxQlusPtrMYdYo.svg"
+              gridFillWidth="false"
+              gridFillHeight="false"
+           />
+          <FooterPaths
+              nodeId="Tv9hu_jZM"
+              width="1fr"
+              height="fit-content"
+              overflow="visible"
+              layout="stack"
+              gap="32px"
+              stackDirection="horizontal"
+              stackDistribution="start"
+              stackAlignment="center"
+              stackWrap="true"
+              gridFillWidth="false"
+              gridFillHeight="false"
+          >
+            <BeginTheConversation
+                nodeId="SkKW_uXYH"
+                width="fit-content"
+                height="fit-content"
+                link="/contact"
+                linkOpenInNewTab="false"
+                inlineTextStyle="/Text Styles/Heading 5"
+                gridFillWidth="false"
+                gridFillHeight="false"
+            >
+              Begin the conversation →
+            </BeginTheConversation>
+          </FooterPaths>
+          <FooterNavigation
+              nodeId="moIieKqcO"
+              width="1fr"
+              height="fit-content"
+              overflow="visible"
+              layout="stack"
+              gap="32px"
+              padding="24px 0px 0px 0px"
+              stackDirection="horizontal"
+              stackDistribution="start"
+              stackAlignment="start"
+              stackWrap="true"
+              gridFillWidth="false"
+              gridFillHeight="false"
+          >
+            <About
+                nodeId="j8lnvrXbO"
+                width="fit-content"
+                height="fit-content"
+                link="/about"
+                linkOpenInNewTab="false"
+                inlineTextStyle="/Text Styles/Body"
+                gridFillWidth="false"
+                gridFillHeight="false"
+            >
+              About
+            </About>
+            <TheWork
+                nodeId="nhheOudrc"
+                width="fit-content"
+                height="fit-content"
+                link="/the-work"
+                linkOpenInNewTab="false"
+                inlineTextStyle="/Text Styles/Body"
+                gridFillWidth="false"
+                gridFillHeight="false"
+            >
+              The work
+            </TheWork>
+            <CoherenceModel
+                nodeId="enRCdiLMW"
+                width="fit-content"
+                height="fit-content"
+                link="/coherence-model"
+                linkOpenInNewTab="false"
+                inlineTextStyle="/Text Styles/Body"
+                gridFillWidth="false"
+                gridFillHeight="false"
+            >
+              Coherence Model
+            </CoherenceModel>
+            <CaseStudies
+                nodeId="Bpfzs4WYL"
+                width="fit-content"
+                height="fit-content"
+                link="/case-studies"
+                linkOpenInNewTab="false"
+                inlineTextStyle="/Text Styles/Body"
+                gridFillWidth="false"
+                gridFillHeight="false"
+            >
+              Case Studies
+            </CaseStudies>
+            <Journal
+                nodeId="YWBVPkpwz"
+                width="fit-content"
+                height="fit-content"
+                link="/journal"
+                linkOpenInNewTab="false"
+                inlineTextStyle="/Text Styles/Body"
+                gridFillWidth="false"
+                gridFillHeight="false"
+            >
+              Journal
+            </Journal>
+          </FooterNavigation>
+          <FooterLegalAndContact
+              nodeId="M0uFrG6eZ"
+              width="1fr"
+              height="fit-content"
+              overflow="visible"
+              layout="stack"
+              gap="24px"
+              padding="24px 0px 0px 0px"
+              stackDirection="horizontal"
+              stackDistribution="start"
+              stackAlignment="center"
+              stackWrap="true"
+              gridFillWidth="false"
+              gridFillHeight="false"
+          >
+            <Copyright
+                nodeId="ZzFGwKDbr"
+                width="fit-content"
+                height="fit-content"
+                inlineTextStyle="/Text Styles/Body S"
+                gridFillWidth="false"
+                gridFillHeight="false"
+            >
+              © 2026 ARCMA
+            </Copyright>
+            <HelloArcmaCo
+                nodeId="CNninRuZ3"
+                width="fit-content"
+                height="fit-content"
+                link="mailto:hello@arcma.co"
+                linkOpenInNewTab="false"
+                inlineTextStyle="/Text Styles/Body S"
+                gridFillWidth="false"
+                gridFillHeight="false"
+            >
+              hello@arcma.co
+            </HelloArcmaCo>
+            <LegalLinks
+                nodeId="MQorDujCV"
+                width="1fr"
+                height="fit-content"
+                overflow="visible"
+                layout="stack"
+                gap="24px"
+                stackDirection="horizontal"
+                stackDistribution="start"
+                stackAlignment="center"
+                gridFillWidth="false"
+                gridFillHeight="false"
+            >
+              <PrivacyPolicy
+                  nodeId="Kzn7qNULQ"
+                  width="fit-content"
+                  height="fit-content"
+                  link="/privacy-policy"
+                  linkOpenInNewTab="false"
+                  inlineTextStyle="/Text Styles/Body S"
+                  gridFillWidth="false"
+                  gridFillHeight="false"
+              >
+                Privacy Policy
+              </PrivacyPolicy>
+              <TermsOfUse
+                  nodeId="gwzABMt5C"
+                  width="fit-content"
+                  height="fit-content"
+                  link="/terms-of-use"
+                  linkOpenInNewTab="false"
+                  inlineTextStyle="/Text Styles/Body S"
+                  gridFillWidth="false"
+                  gridFillHeight="false"
+              >
+                Terms of Use
+              </TermsOfUse>
+            </LegalLinks>
+          </FooterLegalAndContact>
+        </EnterTheWork>
+      </FooterEnterTheWork>
+    </FooterReveal>
     <FooterMenu
         nodeId="jyeBWxSCm"
         position="absolute"
@@ -1171,54 +1620,19 @@ This is where ARCMA's work begins.
       nodeId="ED55BNPMt"
       position="fixed"
       width="100%"
-      height="96px"
+      height="fit-content"
       top="0px"
       centerX="50%"
       componentId="JTE_ljjiM"
       variant="IQJ5C1pEN"
-      kNcB50xza="El4aBpM3m"
    />
   <CustomCursor
       nodeId="UnUUdWN1k"
+      position="absolute"
       width="1px"
       height="1px"
+      top="0px"
+      left="-101px"
       componentId="o3k5QYG"
    />
 </Desktop>
-<Tablet
-    nodeId="d03XGcmc4"
-    position="absolute"
-    width="810px"
-    height="fit-content"
-    top="0px"
-    left="1300px"
-    backgroundColor="/Colors/White"
-    overflow="hidden"
-    layout="stack"
-    stackDirection="vertical"
-    stackDistribution="start"
-    stackAlignment="center"
- />
-<Phone
-    nodeId="OAQX7JCmo"
-    position="absolute"
-    width="390px"
-    height="fit-content"
-    top="0px"
-    left="2210px"
-    backgroundColor="/Colors/White"
-    overflow="hidden"
-    layout="stack"
-    stackDirection="vertical"
-    stackDistribution="start"
-    stackAlignment="center"
- />
-<Frame
-    nodeId="RjuzKbDt_"
-    position="absolute"
-    width="100px"
-    height="100px"
-    top="0px"
-    left="0px"
-    backgroundColor="rgba(255,255,255,1)"
- />

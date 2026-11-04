@@ -95,3 +95,10 @@ Chosen by Alyssa from the cursor studies (lantern, source point, field lines); t
 
 *Why:* The pointer stays the visitor's own; the effects describe the work (attention, a source, a field) instead of decorating the cursor.
 
+### 013 · Footer links: drawn line only
+**2026-11-03**
+
+Amends 012. In the footer, links get a thin line that draws in under the hovered link and nothing else (no source point, no fading of the others). Links elsewhere keep the source point. The lantern never shows over the footer.
+
+*Why:* The footer's rows wrap; shifting or fading links there read as glitchy.
+

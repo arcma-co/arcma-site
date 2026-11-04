@@ -4,7 +4,7 @@ What changed on arcma.co, newest first, grouped by publish date. Every commit is
 
 ## Unreleased
 
-- Footer links settle (the others recede) instead of shifting; the lantern never shows over the footer and re-checks as the page scrolls.
+- Footer links show a thin line drawing in underneath on hover, and nothing else moves; the lantern never shows over the footer and re-checks as the page scrolls.
 - The cream footer card is only as tall as its words, and the footer under it is more compact (smaller mark, tighter rows), so the card lifts about a third of the screen to reveal it.
 - Buttons whose label vanished on hover ("spiral in", "Read more →", "Enter the Model →") now turn their label obsidian.
 - The custom cursor is gone; the normal pointer is back. Standalone links show a sage source point on hover, dark sections carry a faint lantern light, and the homepage's closing statement has field lines that bend toward the pointer (decision 012).

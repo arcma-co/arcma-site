@@ -315,4 +315,17 @@
       </FooterLegalAndContact>
     </EnterTheWork>
   </FooterReveal>
+  <CustomCursor
+      nodeId="QDB9AtWST"
+      position="absolute"
+      width="1px"
+      height="1px"
+      top="0px"
+      left="-101px"
+      componentId="o3k5QYG"
+      sourcePoint="true"
+      lantern="true"
+      lanternSize="640"
+      lanternStrength="1"
+   />
 </Desktop>

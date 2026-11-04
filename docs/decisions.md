@@ -86,3 +86,12 @@ The reveal sits on one gradient layer pinned behind the whole section, and the f
 
 *Why:* One footer, edited in one place, and no break where the card ends.
 
+### 012 · Pointer: the normal cursor, a source point on links, a lantern on dark grounds, field lines once
+**2026-11-03**
+
+The custom cursor (dot, ring and blurred glow that hid the system pointer) is retired; its blur rendered as a dragged square. The code component `CustomCursor.tsx` keeps its name so existing instances update, and now does two things: standalone text links get a "source point" (a small sage point appears and the link steps toward it), and over obsidian grounds a faint cream "lantern" light follows the pointer, fading out over parchment. An instance in the Page Template covers every page. A new `FieldLines.tsx` puts faint lines that bend toward the pointer behind the homepage's closing statement ("When the source is coherent…"), its one placement. All of it is off on touch screens and for visitors who reduce motion.
+
+Chosen by Alyssa from the cursor studies (lantern, source point, field lines); the drawn underline was set aside so links have one hover gesture.
+
+*Why:* The pointer stays the visitor's own; the effects describe the work (attention, a source, a field) instead of decorating the cursor.
+

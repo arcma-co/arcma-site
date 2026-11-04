@@ -1,3 +1,7 @@
+<!-- Page Template: wraps every page except Home. The previous footer
+     (FooterContainer QUJ5nZrKQ, "Get ARCMA Transmissions") is still in the
+     template, hidden; its full layout is in framer/archive/footer-transmissions-2026-11.xml.
+     Hidden layers do not appear in plugin reads, so it is not listed below. -->
 <Desktop
     nodeId="fJZqnCj0J"
     position="absolute"
@@ -23,388 +27,159 @@
       borderRadius="0px"
       direction="to top"
    />
-  <FooterContainer
-      nodeId="QUJ5nZrKQ"
+  <FooterEnterTheWork
+      nodeId="k7GxRmxNY"
       width="1fr"
       height="fit-content"
-      minHeight="100vh"
-      overflow="hidden"
+      backgroundImage="https://framerusercontent.com/images/qnXgAnyetcXI7vkfszPLTnerke8.png"
+      zIndex="1"
+      overflow="visible"
       layout="stack"
-      gap="160px"
-      padding="200px 0px 64px 0px"
+      padding="120px 24px 64px 24px"
       stackDirection="vertical"
-      stackDistribution="end"
+      stackDistribution="center"
       stackAlignment="center"
   >
-    <FooterBackgroundImage
-        nodeId="GuHUxV1NV"
-        locked="true"
-        position="absolute"
-        top="-320px"
-        right="0px"
-        bottom="0px"
-        left="0px"
-        backgroundImage="https://framerusercontent.com/images/qnXgAnyetcXI7vkfszPLTnerke8.png"
-        overflow="hidden"
-    >
-      <Noize
-          nodeId="t6p6ObKWc"
-          opacity="0.1"
-          locked="true"
-          position="absolute"
-          top="0px"
-          right="0px"
-          bottom="-0.5px"
-          left="0px"
-          backgroundImage="https://framerusercontent.com/images/6mcf62RlDfRfU61Yg5vb2pefpi4.png"
-          overflow="hidden"
-       />
-    </FooterBackgroundImage>
-    <SectionsA
-        nodeId="A2wvgri2m"
-        width="1fr"
+    <EnterTheWork
+        nodeId="mzehmvZdQ"
+        width="100%"
         height="fit-content"
-        maxWidth="1600px"
+        maxWidth="1080px"
         overflow="visible"
         layout="stack"
-        padding="0px 56px 0px 56px"
-        stackDirection="horizontal"
-        stackDistribution="center"
+        gap="32px"
+        stackDirection="vertical"
+        stackDistribution="start"
         stackAlignment="start"
     >
-      <Section
-          nodeId="gEInz85rF"
-          width="6fr"
+      <ArcmaOriginalMark
+          nodeId="lNLMIyXaq"
+          width="70px"
+          height="100px"
+          backgroundImage="https://framerusercontent.com/images/jEmtNuDYQzXxDmxQlusPtrMYdYo.svg"
+       />
+      <FooterPaths
+          nodeId="mll4LuSKe"
+          width="1fr"
           height="fit-content"
-          borderRadius="0px"
           overflow="visible"
           layout="stack"
-          gap="64px"
-          padding="0px 0px 0px 0px"
-          stackDirection="vertical"
-          stackDistribution="center"
+          gap="32px"
+          stackDirection="horizontal"
+          stackDistribution="start"
           stackAlignment="center"
+          stackWrap="true"
       >
-        <Container
-            nodeId="kZr72hbDo"
+        <BeginTheConversation
+            nodeId="jrVyDR1iB"
+            width="fit-content"
+            height="fit-content"
+            link="/contact"
+            linkOpenInNewTab="false"
+            inlineTextStyle="/Text Styles/Body Caps"
+        >
+          Begin the conversation →
+        </BeginTheConversation>
+      </FooterPaths>
+      <FooterNavigation
+          nodeId="ZnHYGrnob"
+          width="1fr"
+          height="fit-content"
+          overflow="visible"
+          layout="stack"
+          gap="32px"
+          padding="24px 0px 0px 0px"
+          stackDirection="horizontal"
+          stackDistribution="start"
+          stackAlignment="start"
+          stackWrap="true"
+      >
+        <About nodeId="h7gfSp659" width="fit-content" height="fit-content" link="/about" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body">About</About>
+        <TheWork nodeId="El0T26RKa" width="fit-content" height="fit-content" link="/the-work" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body">The work</TheWork>
+        <CoherenceModel nodeId="zn1ET9bE_" width="fit-content" height="fit-content" link="/coherence-model" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body">Coherence Model</CoherenceModel>
+        <CaseStudies nodeId="Zsa7MeX_D" width="fit-content" height="fit-content" link="/case-studies" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body">Case Studies</CaseStudies>
+        <Journal nodeId="wuuxfw4_h" width="fit-content" height="fit-content" link="/journal" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body">Journal</Journal>
+      </FooterNavigation>
+      <FooterNewsletter
+          nodeId="FFiYqgd9d"
+          width="1fr"
+          height="fit-content"
+          overflow="visible"
+          layout="stack"
+          gap="48px"
+          padding="24px 0px 0px 0px"
+          stackDirection="horizontal"
+          stackDistribution="start"
+          stackAlignment="start"
+          stackWrap="true"
+      >
+        <NewsletterText
+            nodeId="VwfgkAJlL"
             width="1fr"
             height="fit-content"
-            borderRadius="0px 0px 0px 0px"
+            maxWidth="480px"
             overflow="visible"
             layout="stack"
-            gap="56px"
-            padding="0px 8px 0px 8px"
+            gap="12px"
             stackDirection="vertical"
             stackDistribution="start"
             stackAlignment="start"
         >
-          <TextContainer
-              nodeId="myYcsHPzv"
+          <GetArcmaTransmissions nodeId="fJ9Cftk4d" width="1fr" height="fit-content" inlineTextStyle="/Text Styles/Body Caps">GET ARCMA TRANSMISSIONS</GetArcmaTransmissions>
+          <OccasionalTransmissions nodeId="o6Mho_5Rg" width="1fr" height="fit-content" maxWidth="480px" inlineTextStyle="/Text Styles/Body S">Occasional transmissions on coherence, leadership, and what it actually takes to build something that holds. No noise. Signal, delivered.</OccasionalTransmissions>
+        </NewsletterText>
+        <SubscriptionForm
+            nodeId="e7UyEadnB"
+            width="1fr"
+            height="fit-content"
+            maxWidth="520px"
+            borderRadius="0px"
+            overflow="visible"
+            layout="stack"
+            gap="16px"
+            stackDirection="vertical"
+            stackDistribution="start"
+            stackAlignment="start"
+        >
+          <Form
+              nodeId="uxO0BhorF"
               width="1fr"
               height="fit-content"
-              overflow="visible"
-              layout="stack"
-              gap="24px"
-              stackDirection="vertical"
-              stackDistribution="center"
-              stackAlignment="start"
-          >
-            <EnterTheFrequency
-                nodeId="b8lJEhtyt"
-                width="1fr"
-                height="fit-content"
-                maxWidth="480px"
-                inlineTextStyle="/Text Styles/Heading 6"
-            >
-              Enter the frequency
-            </EnterTheFrequency>
-            <GetArcmaTransmissions
-                nodeId="IH688DAx1"
-                width="1fr"
-                height="fit-content"
-                inlineTextStyle="/Text Styles/Heading 2b"
-            >
-              GET ARCMA TRANSMISSIONS
-            </GetArcmaTransmissions>
-            <OccasionalTransmissionsOnCoherenceLeadershipAndWhatItActuall
-                nodeId="HLZDOgnjY"
-                width="1fr"
-                height="fit-content"
-                maxWidth="480px"
-                inlineTextStyle="/Text Styles/Body"
-            >
-              Occasional transmissions on coherence, leadership, and what it actually takes to build something that holds. No noise. Signal, delivered.
-            </OccasionalTransmissionsOnCoherenceLeadershipAndWhatItActuall>
-          </TextContainer>
-          <SubscriptionForm
-              nodeId="cTBzIgDeQ"
-              width="1fr"
-              height="fit-content"
-              maxWidth="520px"
+              maxWidth="540px"
               borderRadius="0px"
               overflow="visible"
               layout="stack"
-              gap="32px"
-              stackDirection="vertical"
-              stackDistribution="start"
-              stackAlignment="start"
+              gap="16px"
+              stackDirection="horizontal"
+              stackDistribution="center"
+              stackAlignment="center"
           >
-            <Form
-                nodeId="JNmeb5C8M"
-                width="1fr"
-                height="fit-content"
-                maxWidth="540px"
-                borderRadius="0px"
-                overflow="visible"
-                layout="stack"
-                gap="16px"
-                stackDirection="horizontal"
-                stackDistribution="center"
-                stackAlignment="center"
-            >
-              <Label
-                  nodeId="v_mYq3FoW"
-                  width="1fr"
-                  height="fit-content"
-                  layout="stack"
-                  gap="10px"
-                  stackDirection="vertical"
-                  stackDistribution="start"
-                  stackAlignment="start"
-              >
-              </Label>
-              <ButtonSubscriptionForm
-                  nodeId="ayPtyJxcY"
-                  width="150px"
-                  height="40px"
-                  componentId="aOTkix47E"
-                  variant="B7KKkIx8G"
-               />
-            </Form>
-            <BySigningUpToReceiveEmailsFromFitFlowYouAgreeToOurPrivacy po
-                nodeId="GfxA5oH0w"
-                width="1fr"
-                height="fit-content"
-                maxWidth="320px"
-                link="/privacy-policy"
-                linkOpenInNewTab="false"
-                inlineTextStyle="/Text Styles/Body S"
-            >
-              By signing up to receive emails from ARCMA, you agree to our Privacy Policy.
-            </BySigningUpToReceiveEmailsFromFitFlowYouAgreeToOurPrivacy po>
-          </SubscriptionForm>
-        </Container>
-      </Section>
-      <Section
-          nodeId="B06tjTmHW"
-          width="2fr"
-          height="1fr"
-          overflow="hidden"
-          padding="0px 0px 0px 0px"
-       />
-      <Section
-          nodeId="C6dj58hir"
-          width="4fr"
+            <Label nodeId="eQOqhlU3j" width="1fr" height="fit-content" layout="stack" gap="10px" stackDirection="vertical" stackDistribution="start" stackAlignment="start" />
+            <ButtonSubscriptionForm nodeId="tiPIQRQgk" width="150px" height="40px" componentId="aOTkix47E" variant="B7KKkIx8G" />
+          </Form>
+          <PrivacyNote nodeId="n1w40WdrB" width="1fr" height="fit-content" maxWidth="320px" link="/privacy-policy" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body S">By signing up to receive emails from ARCMA, you agree to our Privacy Policy.</PrivacyNote>
+        </SubscriptionForm>
+      </FooterNewsletter>
+      <FooterLegalAndContact
+          nodeId="Mh9C79Knb"
+          width="1fr"
           height="fit-content"
-          borderRadius="0px"
           overflow="visible"
           layout="stack"
-          gap="64px"
-          padding="0px 0px 0px 0px"
-          stackDirection="vertical"
+          gap="24px"
+          padding="24px 0px 0px 0px"
+          stackDirection="horizontal"
           stackDistribution="start"
           stackAlignment="center"
+          stackWrap="true"
       >
-        <Container
-            nodeId="jKXhG5L4b"
-            width="1fr"
-            height="fit-content"
-            borderRadius="0px 0px 0px 0px"
-            overflow="visible"
-            layout="stack"
-            padding="0px 8px 0px 8px"
-            stackDirection="vertical"
-            stackDistribution="center"
-            stackAlignment="start"
-        >
-          <Navigation
-              nodeId="sbYge85RR"
-              width="1fr"
-              height="fit-content"
-              maxWidth="1600px"
-              overflow="visible"
-              layout="stack"
-              gap="48px"
-              stackDirection="vertical"
-              stackDistribution="center"
-              stackAlignment="start"
-          >
-            <Sitemap
-                nodeId="dvlmyzmOg"
-                width="fit-content"
-                height="fit-content"
-                inlineTextStyle="/Text Styles/Heading 5"
-            >
-              Sitemap
-            </Sitemap>
-            <Links
-                nodeId="caFWZ0MW1"
-                width="1fr"
-                height="fit-content"
-                overflow="visible"
-                layout="stack"
-                stackDirection="horizontal"
-                stackDistribution="center"
-                stackAlignment="start"
-            >
-              <LinksA
-                  nodeId="r6l636OWX"
-                  width="1fr"
-                  height="fit-content"
-                  overflow="visible"
-                  layout="stack"
-                  gap="24px 20px"
-                  stackDirection="vertical"
-                  stackDistribution="center"
-                  stackAlignment="start"
-              >
-                <CustomLinkL nodeId="Oezap8sdx" width="fit-content" height="fit-content" componentId="niZmG_oyU" variant="hMjDRyD_A" Q3WcL2JWh="Home" UG48t3BPQ="/" YU5y67Qwy="false" zKrugzp_j="rgb(242, 235, 217)" />
-                <CustomLinkL nodeId="VLt8nQQGc" width="fit-content" height="fit-content" componentId="niZmG_oyU" variant="hMjDRyD_A" Q3WcL2JWh="About" UG48t3BPQ="/about" YU5y67Qwy="false" zKrugzp_j="rgb(242, 235, 217)" />
-                <CustomLinkL nodeId="PZzVXrjJS" width="fit-content" height="fit-content" componentId="niZmG_oyU" variant="hMjDRyD_A" Q3WcL2JWh="The Work" UG48t3BPQ="/the-work" YU5y67Qwy="false" zKrugzp_j="rgb(242, 235, 217)" />
-                <CustomLinkL nodeId="fgHPDC3UR" width="fit-content" height="fit-content" componentId="niZmG_oyU" variant="hMjDRyD_A" Q3WcL2JWh="Case Studies" UG48t3BPQ="/case-studies" YU5y67Qwy="false" zKrugzp_j="rgb(242, 235, 217)" />
-                <CustomLinkL nodeId="XuhDL6P5f" width="fit-content" height="fit-content" componentId="niZmG_oyU" variant="hMjDRyD_A" Q3WcL2JWh="Coherence Model" UG48t3BPQ="/coherence-model" YU5y67Qwy="false" zKrugzp_j="rgb(242, 235, 217)" />
-                <CustomLinkL nodeId="X_CNzGADZ" width="fit-content" height="fit-content" componentId="niZmG_oyU" variant="hMjDRyD_A" Q3WcL2JWh="Journal" UG48t3BPQ="/journal" YU5y67Qwy="false" zKrugzp_j="rgb(242, 235, 217)" />
-              </LinksA>
-              <LinksB
-                  nodeId="HYF5TTa1n"
-                  width="1fr"
-                  height="fit-content"
-                  overflow="visible"
-                  layout="stack"
-                  gap="24px 20px"
-                  stackDirection="vertical"
-                  stackDistribution="center"
-                  stackAlignment="start"
-              >
-                <CustomLinkL nodeId="Ad5oFrFZj" width="fit-content" height="fit-content" componentId="niZmG_oyU" variant="hMjDRyD_A" Q3WcL2JWh="Book a Session" UG48t3BPQ="/contact" YU5y67Qwy="false" zKrugzp_j="rgb(242, 235, 217)" />
-                <CustomLinkL nodeId="JggcDLUMb" width="fit-content" height="fit-content" componentId="niZmG_oyU" variant="hMjDRyD_A" Q3WcL2JWh="Privacy Policy" UG48t3BPQ="/privacy-policy" YU5y67Qwy="false" zKrugzp_j="rgb(242, 235, 217)" />
-                <CustomLinkL nodeId="TyweYkNnk" width="fit-content" height="fit-content" componentId="niZmG_oyU" variant="hMjDRyD_A" Q3WcL2JWh="Terms of Use" UG48t3BPQ="/terms-of-use" YU5y67Qwy="false" zKrugzp_j="rgb(242, 235, 217)" />
-              </LinksB>
-            </Links>
-          </Navigation>
-        </Container>
-      </Section>
-    </SectionsA>
-    <SectionsB
-        nodeId="Kh9EmTnOA"
-        width="1fr"
-        height="fit-content"
-        maxWidth="1600px"
-        overflow="visible"
-        layout="stack"
-        padding="0px 56px 0px 56px"
-        stackDirection="horizontal"
-        stackDistribution="center"
-        stackAlignment="end"
-    >
-      <Section
-          nodeId="plbIXpDDo"
-          width="6fr"
-          height="1fr"
-          borderRadius="0px"
-          overflow="visible"
-          layout="stack"
-          gap="64px"
-          padding="0px 0px 0px 0px"
-          stackDirection="vertical"
-          stackDistribution="space-between"
-          stackAlignment="center"
-      >
-        <TextContainer
-            nodeId="R20xKYG6m"
-            width="1fr"
-            height="1fr"
-            borderRadius="0px 0px 0px 0px"
-            overflow="visible"
-            layout="stack"
-            gap="80px"
-            padding="0px 8px 0px 8px"
-            stackDirection="vertical"
-            stackDistribution="space-between"
-            stackAlignment="start"
-        >
-          <ContactUsHelloArcmaCo
-              nodeId="BI8KDXRzy"
-              width="1fr"
-              height="fit-content"
-              link="mailto:hello@arcma.co"
-              linkOpenInNewTab="true"
-              inlineTextStyle="/Text Styles/Body L"
-          >
-            Contact us: hello@arcma.co
-          </ContactUsHelloArcmaCo>
-          <SocialLinks
-              nodeId="HSpoUOoX_"
-              width="1fr"
-              height="fit-content"
-              overflow="visible"
-              layout="stack"
-              gap="32px"
-              stackDirection="horizontal"
-              stackDistribution="start"
-              stackAlignment="center"
-           />
-        </TextContainer>
-      </Section>
-      <Section
-          nodeId="qhjM4ycFv"
-          width="2fr"
-          height="1fr"
-          overflow="hidden"
-          padding="0px 0px 0px 0px"
-       />
-      <Section
-          nodeId="Ly7sCPN1G"
-          width="4fr"
-          height="fit-content"
-          borderRadius="0px"
-          overflow="visible"
-          layout="stack"
-          gap="64px"
-          padding="0px 0px 0px 0px"
-          stackDirection="vertical"
-          stackDistribution="center"
-          stackAlignment="center"
-      >
-        <Container
-            nodeId="nF1Z6uyfx"
-            width="1fr"
-            height="fit-content"
-            borderRadius="0px 0px 0px 0px"
-            overflow="visible"
-            layout="stack"
-            gap="56px"
-            padding="0px 8px 0px 8px"
-            stackDirection="vertical"
-            stackDistribution="start"
-            stackAlignment="start"
-        >
-          <Image
-              nodeId="rVXrvd04q"
-              width="46px"
-              height="66px"
-              backgroundImage="https://framerusercontent.com/images/jEmtNuDYQzXxDmxQlusPtrMYdYo.svg"
-           />
-          <Copyright2026ArcmaAllRightsReserved
-              nodeId="RFHHZVsep"
-              width="1fr"
-              height="fit-content"
-              inlineTextStyle="/Text Styles/Body S"
-          >
-            Copyright 2026 ARCMA. All rights reserved.
-          </Copyright2026ArcmaAllRightsReserved>
-        </Container>
-      </Section>
-    </SectionsB>
-  </FooterContainer>
+        <Copyright nodeId="oM4b3vryL" width="fit-content" height="fit-content" inlineTextStyle="/Text Styles/Body S">© 2026 ARCMA</Copyright>
+        <HelloArcmaCo nodeId="Et9d9ZB7k" width="fit-content" height="fit-content" link="mailto:hello@arcma.co" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body S">hello@arcma.co</HelloArcmaCo>
+        <LegalLinks nodeId="M7FpaeqK_" width="1fr" height="fit-content" overflow="visible" layout="stack" gap="24px" stackDirection="horizontal" stackDistribution="start" stackAlignment="center">
+          <PrivacyPolicy nodeId="gAPIVFsa4" width="fit-content" height="fit-content" link="/privacy-policy" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body S">Privacy Policy</PrivacyPolicy>
+          <TermsOfUse nodeId="djuMzjd7T" width="fit-content" height="fit-content" link="/terms-of-use" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body S">Terms of Use</TermsOfUse>
+        </LegalLinks>
+      </FooterLegalAndContact>
+    </EnterTheWork>
+  </FooterEnterTheWork>
 </Desktop>

@@ -60,3 +60,12 @@ The Instagram and LinkedIn profiles stay in `content/site.yaml`. The rebuild dec
 
 *Why:* A single direct line reads as more premium than a row of exits. Decided by Alyssa.
 
+
+### 009 · One footer site-wide: the homepage footer replaces "Get ARCMA Transmissions"
+**2026-11-03**
+
+The homepage footer (mark, "Begin the conversation →", site links, legal line on the gradient) now closes every page. On the other pages it comes from the Page Template, without the cream "Something brought you here" card: The Work and Contact already open their Book A Session section with that line, so the card would repeat it. The newsletter sign-up from the old footer moves into the new one as a row above the legal line, still posting to the HubSpot relay. The CTA line is set in Kobe caps (Body Caps), Kobe's role for structural labels. The old footer stays in the template, hidden, and its layout is in `framer/archive/`.
+
+Requested by Alyssa as an exception to decision 002 (no new Framer layouts in stage 1).
+
+*Why:* Two different footers made the site feel like two sites. The homepage version is quieter and leads with the conversation.

@@ -1,6 +1,7 @@
-<!-- Page Template: wraps every page except Home. The previous footer
-     (FooterContainer QUJ5nZrKQ, "Get ARCMA Transmissions") is still in the
-     template, hidden; its full layout is in framer/archive/footer-transmissions-2026-11.xml.
+<!-- Page Template: wraps every page, the homepage included. Its only visible
+     footer is the reveal: cream card over a sticky footer on one shared gradient.
+     The previous footer (FooterContainer QUJ5nZrKQ) is still in the template,
+     hidden; its layout is in framer/archive/footer-transmissions-2026-11.xml.
      Hidden layers do not appear in plugin reads, so it is not listed below. -->
 <Desktop
     nodeId="fJZqnCj0J"
@@ -27,39 +28,114 @@
       borderRadius="0px"
       direction="to top"
    />
-  <FooterEnterTheWork
-      nodeId="k7GxRmxNY"
+  <FooterReveal
+      nodeId="z1JGEjDFX"
       width="1fr"
       height="fit-content"
-      backgroundImage="https://framerusercontent.com/images/qnXgAnyetcXI7vkfszPLTnerke8.png"
-      zIndex="1"
+      backgroundColor="/Colors/Green"
       overflow="visible"
       layout="stack"
-      padding="64px 24px 64px 24px"
       stackDirection="vertical"
-      stackDistribution="center"
+      stackDistribution="start"
       stackAlignment="center"
+      gridFillWidth="false"
+      gridFillHeight="false"
   >
+    <RevealGradient
+        nodeId="E5Ghfn8_j"
+        locked="true"
+        position="absolute"
+        top="0px"
+        right="0px"
+        bottom="0px"
+        left="0px"
+        backgroundImage="https://framerusercontent.com/images/qnXgAnyetcXI7vkfszPLTnerke8.png"
+        zIndex="0"
+        overflow="hidden"
+    >
+      <Noize nodeId="u_X7Z69Td" opacity="0.1" locked="true" position="absolute" top="0px" right="0px" bottom="-0.5px" left="0px" backgroundImage="https://framerusercontent.com/images/6mcf62RlDfRfU61Yg5vb2pefpi4.png" overflow="hidden" />
+    </RevealGradient>
+    <ForegroundScrollsAway
+        nodeId="j4t9RgwGy"
+        width="1fr"
+        height="fit-content"
+        minHeight="45vh"
+        backgroundColor="/Colors/Antique Brass"
+        borderRadius="0px 0px 56px 56px"
+        zIndex="2"
+        overflow="clip"
+        layout="stack"
+        padding="96px 24px 96px 24px"
+        stackDirection="vertical"
+        stackDistribution="center"
+        stackAlignment="center"
+        gridFillWidth="false"
+        gridFillHeight="false"
+    >
+      <Invitation
+          nodeId="gy6QmyVd8"
+          width="1fr"
+          height="fit-content"
+          maxWidth="1080px"
+          overflow="visible"
+          layout="stack"
+          gap="24px"
+          stackDirection="vertical"
+          stackDistribution="start"
+          stackAlignment="start"
+          gridFillWidth="false"
+          gridFillHeight="false"
+      >
+        <SomethingBroughtYouHere
+            nodeId="SDMObIxmo"
+            width="1fr"
+            height="fit-content"
+            font="CUSTOMV2;Eros Regular"
+            gridFillWidth="false"
+            gridFillHeight="false"
+        >
+          Something brought you here.
+        </SomethingBroughtYouHere>
+        <TheWorkBeginning
+            nodeId="Llbj4QGe2"
+            width="1fr"
+            height="fit-content"
+            inlineTextStyle="/Text Styles/Body L"
+            gridFillWidth="false"
+            gridFillHeight="false"
+        >
+          That’s already the work beginning.
+        </TheWorkBeginning>
+      </Invitation>
+    </ForegroundScrollsAway>
     <EnterTheWork
-        nodeId="mzehmvZdQ"
+        nodeId="vLl9Qjyuf"
+        position="sticky"
         width="100%"
         height="fit-content"
-        maxWidth="1080px"
+        bottom="0px"
+        maxWidth="1128px"
+        zIndex="1"
         overflow="visible"
         layout="stack"
         gap="32px"
+        padding="64px 24px 64px 24px"
         stackDirection="vertical"
         stackDistribution="start"
         stackAlignment="start"
+        gridFillWidth="false"
+        gridFillHeight="false"
     >
       <ArcmaOriginalMark
-          nodeId="lNLMIyXaq"
+          nodeId="W7lcqXJLD"
           width="70px"
           height="100px"
           backgroundImage="https://framerusercontent.com/images/jEmtNuDYQzXxDmxQlusPtrMYdYo.svg"
+          gridFillWidth="false"
+          gridFillHeight="false"
        />
       <FooterPaths
-          nodeId="mll4LuSKe"
+          nodeId="Tv9hu_jZM"
           width="1fr"
           height="fit-content"
           overflow="visible"
@@ -69,20 +145,24 @@
           stackDistribution="start"
           stackAlignment="center"
           stackWrap="true"
+          gridFillWidth="false"
+          gridFillHeight="false"
       >
         <BeginTheConversation
-            nodeId="jrVyDR1iB"
+            nodeId="SkKW_uXYH"
             width="fit-content"
             height="fit-content"
             link="/contact"
             linkOpenInNewTab="false"
             inlineTextStyle="/Text Styles/Body Caps"
+            gridFillWidth="false"
+            gridFillHeight="false"
         >
           Begin the conversation →
         </BeginTheConversation>
       </FooterPaths>
       <FooterNavigation
-          nodeId="ZnHYGrnob"
+          nodeId="moIieKqcO"
           width="1fr"
           height="fit-content"
           overflow="visible"
@@ -93,15 +173,72 @@
           stackDistribution="start"
           stackAlignment="start"
           stackWrap="true"
+          gridFillWidth="false"
+          gridFillHeight="false"
       >
-        <About nodeId="h7gfSp659" width="fit-content" height="fit-content" link="/about" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body">About</About>
-        <TheWork nodeId="El0T26RKa" width="fit-content" height="fit-content" link="/the-work" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body">The work</TheWork>
-        <CoherenceModel nodeId="zn1ET9bE_" width="fit-content" height="fit-content" link="/coherence-model" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body">Coherence Model</CoherenceModel>
-        <CaseStudies nodeId="Zsa7MeX_D" width="fit-content" height="fit-content" link="/case-studies" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body">Case Studies</CaseStudies>
-        <Journal nodeId="wuuxfw4_h" width="fit-content" height="fit-content" link="/journal" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body">Journal</Journal>
+        <About
+            nodeId="j8lnvrXbO"
+            width="fit-content"
+            height="fit-content"
+            link="/about"
+            linkOpenInNewTab="false"
+            inlineTextStyle="/Text Styles/Body"
+            gridFillWidth="false"
+            gridFillHeight="false"
+        >
+          About
+        </About>
+        <TheWork
+            nodeId="nhheOudrc"
+            width="fit-content"
+            height="fit-content"
+            link="/the-work"
+            linkOpenInNewTab="false"
+            inlineTextStyle="/Text Styles/Body"
+            gridFillWidth="false"
+            gridFillHeight="false"
+        >
+          The work
+        </TheWork>
+        <CoherenceModel
+            nodeId="enRCdiLMW"
+            width="fit-content"
+            height="fit-content"
+            link="/coherence-model"
+            linkOpenInNewTab="false"
+            inlineTextStyle="/Text Styles/Body"
+            gridFillWidth="false"
+            gridFillHeight="false"
+        >
+          Coherence Model
+        </CoherenceModel>
+        <CaseStudies
+            nodeId="Bpfzs4WYL"
+            width="fit-content"
+            height="fit-content"
+            link="/case-studies"
+            linkOpenInNewTab="false"
+            inlineTextStyle="/Text Styles/Body"
+            gridFillWidth="false"
+            gridFillHeight="false"
+        >
+          Case Studies
+        </CaseStudies>
+        <Journal
+            nodeId="YWBVPkpwz"
+            width="fit-content"
+            height="fit-content"
+            link="/journal"
+            linkOpenInNewTab="false"
+            inlineTextStyle="/Text Styles/Body"
+            gridFillWidth="false"
+            gridFillHeight="false"
+        >
+          Journal
+        </Journal>
       </FooterNavigation>
       <FooterLegalAndContact
-          nodeId="Mh9C79Knb"
+          nodeId="M0uFrG6eZ"
           width="1fr"
           height="fit-content"
           overflow="visible"
@@ -112,14 +249,70 @@
           stackDistribution="start"
           stackAlignment="center"
           stackWrap="true"
+          gridFillWidth="false"
+          gridFillHeight="false"
       >
-        <Copyright nodeId="oM4b3vryL" width="fit-content" height="fit-content" inlineTextStyle="/Text Styles/Body S">© 2026 ARCMA</Copyright>
-        <HelloArcmaCo nodeId="Et9d9ZB7k" width="fit-content" height="fit-content" link="mailto:hello@arcma.co" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body S">hello@arcma.co</HelloArcmaCo>
-        <LegalLinks nodeId="M7FpaeqK_" width="1fr" height="fit-content" overflow="visible" layout="stack" gap="24px" stackDirection="horizontal" stackDistribution="start" stackAlignment="center">
-          <PrivacyPolicy nodeId="gAPIVFsa4" width="fit-content" height="fit-content" link="/privacy-policy" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body S">Privacy Policy</PrivacyPolicy>
-          <TermsOfUse nodeId="djuMzjd7T" width="fit-content" height="fit-content" link="/terms-of-use" linkOpenInNewTab="false" inlineTextStyle="/Text Styles/Body S">Terms of Use</TermsOfUse>
+        <Copyright
+            nodeId="ZzFGwKDbr"
+            width="fit-content"
+            height="fit-content"
+            inlineTextStyle="/Text Styles/Body S"
+            gridFillWidth="false"
+            gridFillHeight="false"
+        >
+          © 2026 ARCMA
+        </Copyright>
+        <HelloArcmaCo
+            nodeId="CNninRuZ3"
+            width="fit-content"
+            height="fit-content"
+            link="mailto:hello@arcma.co"
+            linkOpenInNewTab="false"
+            inlineTextStyle="/Text Styles/Body S"
+            gridFillWidth="false"
+            gridFillHeight="false"
+        >
+          hello@arcma.co
+        </HelloArcmaCo>
+        <LegalLinks
+            nodeId="MQorDujCV"
+            width="1fr"
+            height="fit-content"
+            overflow="visible"
+            layout="stack"
+            gap="24px"
+            stackDirection="horizontal"
+            stackDistribution="start"
+            stackAlignment="center"
+            gridFillWidth="false"
+            gridFillHeight="false"
+        >
+          <PrivacyPolicy
+              nodeId="Kzn7qNULQ"
+              width="fit-content"
+              height="fit-content"
+              link="/privacy-policy"
+              linkOpenInNewTab="false"
+              inlineTextStyle="/Text Styles/Body S"
+              gridFillWidth="false"
+              gridFillHeight="false"
+          >
+            Privacy Policy
+          </PrivacyPolicy>
+          <TermsOfUse
+              nodeId="gwzABMt5C"
+              width="fit-content"
+              height="fit-content"
+              link="/terms-of-use"
+              linkOpenInNewTab="false"
+              inlineTextStyle="/Text Styles/Body S"
+              gridFillWidth="false"
+              gridFillHeight="false"
+          >
+            Terms of Use
+          </TermsOfUse>
         </LegalLinks>
       </FooterLegalAndContact>
     </EnterTheWork>
-  </FooterEnterTheWork>
+  </FooterReveal>
 </Desktop>

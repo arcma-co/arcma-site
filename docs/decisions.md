@@ -77,3 +77,12 @@ Supersedes the newsletter part of 009. The site-wide footer is the homepage foot
 
 *Why:* Alyssa prefers the simpler footer.
 
+### 011 · One footer for the whole site, with the cream reveal
+**2026-11-03**
+
+Supersedes 009 and 010. The homepage turned out to use the Page Template too, so it showed two footers. The homepage's reveal (cream "Something brought you here" card sliding up over a sticky footer) moves into the Page Template and is now the only footer, on every page. The card repeats the opening line of Book A Session on The Work and Contact; Alyssa accepted that.
+
+The reveal sits on one gradient layer pinned behind the whole section, and the footer content is the sticky layer with no image of its own, so the card's rounded corners and the footer show one continuous gradient instead of flat green and a seam.
+
+*Why:* One footer, edited in one place, and no break where the card ends.
+

@@ -1220,20 +1220,34 @@ What does this system require to move as one?"
         stackDistribution="center"
         stackAlignment="center"
     >
-      <FieldLines
-          nodeId="O6Jw5POda"
+      <FieldLinesLayer
+          nodeId="XramlcYhr"
           position="absolute"
-          width="100%"
-          height="100%"
           top="0px"
+          right="0px"
+          bottom="0px"
           left="0px"
-          componentId="aQ2X2AE"
-          color="rgb(123, 158, 135)"
-          lineGap="14"
-          reach="120"
-          pull="0.55"
-          restOpacity="0.07"
-       />
+          backgroundColor="rgba(0,0,0,0)"
+          zIndex="0"
+          overflow="hidden"
+          layout="stack"
+          gap="10px"
+          stackDirection="vertical"
+          stackDistribution="center"
+          stackAlignment="center"
+      >
+        <FieldLines
+            nodeId="O6Jw5POda"
+            width="1fr"
+            height="1fr"
+            componentId="aQ2X2AE"
+            color="rgb(123, 158, 135)"
+            lineGap="14"
+            reach="120"
+            pull="0.55"
+            restOpacity="0.07"
+         />
+      </FieldLinesLayer>
       <Sections
           nodeId="uRP5WpRAO"
           width="100%"

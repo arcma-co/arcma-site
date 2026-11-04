@@ -35,7 +35,7 @@
       zIndex="1"
       overflow="visible"
       layout="stack"
-      padding="120px 24px 64px 24px"
+      padding="64px 24px 64px 24px"
       stackDirection="vertical"
       stackDistribution="center"
       stackAlignment="center"

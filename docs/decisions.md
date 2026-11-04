@@ -102,3 +102,4 @@ Amends 012. In the footer, links get a thin line that draws in under the hovered
 
 *Why:* The footer's rows wrap; shifting or fading links there read as glitchy.
 
+Amendment to 013 (2026-11-03): the footer's "Begin the conversation →" keeps the source point, with no underline; the other footer links keep the drawn line.

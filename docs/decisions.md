@@ -69,3 +69,11 @@ The homepage footer (mark, "Begin the conversation →", site links, legal line 
 Requested by Alyssa as an exception to decision 002 (no new Framer layouts in stage 1).
 
 *Why:* Two different footers made the site feel like two sites. The homepage version is quieter and leads with the conversation.
+
+### 010 · The footer carries no newsletter sign-up
+**2026-11-03**
+
+Supersedes the newsletter part of 009. The site-wide footer is the homepage footer as is: mark, "Begin the conversation →", site links, legal line. The "Get ARCMA Transmissions" sign-up is dropped from the footer; the original form, with its HubSpot webhook, stays in the hidden old footer and in `framer/archive/`.
+
+*Why:* Alyssa prefers the simpler footer.
+

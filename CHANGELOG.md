@@ -4,7 +4,7 @@ What changed on arcma.co, newest first, grouped by publish date. Every commit is
 
 ## Unreleased
 
-- Every page now closes with the homepage footer; the newsletter sign-up moves into it and the old "Get ARCMA Transmissions" footer is retired (decision 009).
+- Every page now closes with the homepage footer, without a newsletter sign-up; the old "Get ARCMA Transmissions" footer is retired (decisions 009, 010).
 - The footer's "Begin the conversation →" line is set in Kobe caps.
 - Homepage footer reveal: the gradient now sits behind the cream card, so no flat green shows at its rounded corners as it slides away.
 - Social icons hidden site-wide; email is the only contact shown (decision 008).

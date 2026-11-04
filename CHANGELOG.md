@@ -4,6 +4,9 @@ What changed on arcma.co, newest first, grouped by publish date. Every commit is
 
 ## Unreleased
 
+- Footer links settle (the others recede) instead of shifting; the lantern never shows over the footer and re-checks as the page scrolls.
+- The cream footer card is only as tall as its words, so it no longer slides up to the top of the screen.
+- Buttons whose label vanished on hover ("spiral in", "Read more →", "Enter the Model →") now turn their label obsidian.
 - The custom cursor is gone; the normal pointer is back. Standalone links show a sage source point on hover, dark sections carry a faint lantern light, and the homepage's closing statement has field lines that bend toward the pointer (decision 012).
 - One footer for the whole site: the homepage's cream reveal now closes every page. No newsletter sign-up; the old "Get ARCMA Transmissions" footer is retired (decisions 009 to 011).
 - The footer's "Begin the conversation →" line is set in Kobe caps.
